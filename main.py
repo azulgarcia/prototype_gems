@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
-df = pd.read_csv('C:/Users/Azul/Desktop/CB/prototipoGems/all_categories_performance.csv')
+df = pd.read_csv('all_categories_performance.csv')
 df['date'] = pd.to_datetime(df['date'])
 
 ###############################################################################################################
