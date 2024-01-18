@@ -67,6 +67,6 @@ filtered_gems = all_gems_df[(all_gems_df['category'] == categoria_seleccionada)
                           & (all_gems_df['week'] == semana_seleccionada)]
 
 
-columnas_a_mostrar = ['category', 'project_name', 'start_price', 'end_price', 'performance']
+columnas_a_mostrar = ['category', 'date', 'project_name', 'start_price', 'end_price', 'performance']
 
 st.write(filtered_gems[columnas_a_mostrar], index=False)
