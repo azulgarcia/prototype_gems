@@ -94,6 +94,7 @@ df_filtrado['return_total'] = return_of_invesment(1000, df_filtrado['performance
 fig_roi = px.line(df_filtrado, x='date', y='return_total', color='category', markers=True,
                   labels={'performance': 'Mean Performance', 'date': 'Date'},)
 
+st.write("Return on investment of 1000 dollars")
 st.plotly_chart(fig_roi)
 
 st.title('Projects by category and date')
