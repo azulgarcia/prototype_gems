@@ -89,7 +89,17 @@ df_filtrado = filtered_df[(filtered_df['date'] >= fecha_inicio) & (filtered_df['
 
 df_filtrado = df_filtrado.groupby(['category', 'date'])['performance'].mean().reset_index()
 
-df_filtrado['return_total'] = return_of_invesment(1000, df_filtrado['performance'].tolist())
+init_investment = 1000
+roi_total = []
+
+for category in df_filtrado['category'].unique():
+    category_df = df_filtrado[df_filtrado['category'] == category]
+    accumulated_roi = init_investment
+    for index, row in category_df.iterrows():
+        accumulated_roi *= 1 + row['performance']
+        roi_total.append(accumulated_roi)
+
+df_filtrado['return_total'] = roi_total
 
 fig_roi = px.line(df_filtrado, x='date', y='return_total', color='category', markers=True,
                   labels={'performance': 'Mean Performance', 'date': 'Date'},)
