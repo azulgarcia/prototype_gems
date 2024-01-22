@@ -1,46 +1,7 @@
 import pandas as pd
 import streamlit as st
 import plotly.express as px
-
-def calculate_performances_many_years(projects_all, list_dates, top):
-    """
-    - return mean performance of wallet joining different years.
-
-        Args:
-        - projects_all: normally 1000$.
-        - list_dates: to calculate the accumulated.
-        - top_project: wallet size.
-
-        Returns:
-        - project_score from the top_position (ideally top 10).
-    """
-    performance_total = [0]
-    for date_i in list_dates[:-1].copy():
-        year = date_i.year
-        week = date_i.isocalendar()[1]
-        projects_in_year = projects_all[projects_all['year'] == year]
-        top_projects = projects_in_year[projects_in_year['week'] == week].iloc[0:top, :]
-        performance_total.append(top_projects['performance'].mean(skipna=True))
-    return performance_total
-
-def return_of_invesment(init_investment, list_performance):
-    """
-    - Gets ROI of invesment in a ordered list of performance.
-
-        Args:
-        - init_investment: normally 1000$.
-        - list_performance: to calculate the accumulated
-
-        Returns:
-        - project_score from the top_position (ideally top 10).
-    """
-    accumulated_roi = init_investment
-    roi_total = []
-    for perf in list_performance:
-        accumulated_roi = round(accumulated_roi * (1 + perf), 2)
-        roi_total.append(accumulated_roi)
-    return roi_total
-
+import plotly.graph_objects as go
 
 
 df = pd.read_csv('all_categories_performance.csv')
@@ -103,6 +64,17 @@ df_filtrado['return_total'] = roi_total
 
 fig_roi = px.line(df_filtrado, x='date', y='return_total', color='category', markers=True,
                   labels={'performance': 'Mean Performance', 'date': 'Date'},)
+
+
+fig_roi.add_trace(
+    go.Scatter(
+        x=[df_filtrado['date'].min(), df_filtrado['date'].max()],
+        y=[1000, 1000],
+        mode='lines',
+        name='Initial Investment',
+        line=dict(color="black", width=2, dash="dash"),
+    )
+)
 
 st.write("Return on investment of 1000 dollars")
 st.plotly_chart(fig_roi)
