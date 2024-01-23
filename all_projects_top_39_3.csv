@@ -1,0 +1,511 @@
+,id_project,name,top,score,year,week
+0,376,Bitcoin,General,85.51,2024,1
+1,978,Ethereum,General,76.16,2024,1
+2,8839,Internet Computer,General,73.56,2024,1
+3,345,Binance Coin,General,72.64,2024,1
+4,5518,Avalanche,General,72.21,2024,1
+5,984,TRON,General,71.18,2024,1
+6,659,ChainLink,General,71.00,2024,1
+7,1036,Polygon,General,70.67,2024,1
+8,6569,The Graph,General,70.22,2024,1
+9,979,XRP,General,70.09,2024,1
+10,4688,Polkadot,General,69.94,2024,1
+11,15951,BitTorrent,General,69.58,2024,1
+12,3844,Trust Wallet Token,General,69.31,2024,1
+13,8477,Mina Protocol (IOU),General,68.50,2024,1
+14,621,Cardano,General,68.43,2024,1
+15,5674,PancakeSwap,General,68.38,2024,1
+16,1087,Kava,General,68.05,2024,1
+17,1069,Hedera Hashgraph,General,67.88,2024,1
+18,18126,Optimism,General,67.70,2024,1
+19,5613,Aave,General,66.96,2024,1
+20,6009,Axie Infinity,General,66.89,2024,1
+21,996,Maker,General,66.85,2024,1
+22,6641,1inch,General,66.71,2024,1
+23,994,VeChain,General,66.53,2024,1
+24,147,Algorand,General,66.27,2024,1
+25,18408,Kaspa,General,65.74,2024,1
+26,995,Ontology,General,65.38,2024,1
+27,1032,Zilliqa,General,64.91,2024,1
+28,1118,VeThor Token,General,64.88,2024,1
+29,1014,Enjin Coin,General,64.59,2024,1
+30,376,Bitcoin,General,92.04,2024,2
+31,978,Ethereum,General,79.81,2024,2
+32,8839,Internet Computer,General,74.84,2024,2
+33,345,Binance Coin,General,73.40,2024,2
+34,5518,Avalanche,General,72.28,2024,2
+35,621,Cardano,General,71.60,2024,2
+36,1069,Hedera Hashgraph,General,71.31,2024,2
+37,984,TRON,General,71.31,2024,2
+38,4688,Polkadot,General,71.15,2024,2
+39,769,Cosmos,General,71.13,2024,2
+40,1036,Polygon,General,70.83,2024,2
+41,3844,Trust Wallet Token,General,70.70,2024,2
+42,994,VeChain,General,70.65,2024,2
+43,6569,The Graph,General,70.54,2024,2
+44,15951,BitTorrent,General,70.28,2024,2
+45,8477,Mina Protocol (IOU),General,70.22,2024,2
+46,147,Algorand,General,69.83,2024,2
+47,2391,Klaytn,General,67.59,2024,2
+48,659,ChainLink,General,67.09,2024,2
+49,6641,1inch,General,67.06,2024,2
+50,907,Decentraland,General,66.92,2024,2
+51,1014,Enjin Coin,General,66.76,2024,2
+52,1005,Synthetix Network Token,General,66.43,2024,2
+53,18126,Optimism,General,66.29,2024,2
+54,1011,Theta Network,General,66.17,2024,2
+55,985,Tezos,General,65.99,2024,2
+56,7102,Flow - Dapper Labs,General,65.57,2024,2
+57,986,Monero,General,65.50,2024,2
+58,979,XRP,General,65.46,2024,2
+59,1118,VeThor Token,General,65.42,2024,2
+60,376,Bitcoin,General,90.79,2024,3
+61,978,Ethereum,General,77.44,2024,3
+62,8839,Internet Computer,General,74.94,2024,3
+63,345,Binance Coin,General,74.66,2024,3
+64,979,XRP,General,72.88,2024,3
+65,621,Cardano,General,71.50,2024,3
+66,1069,Hedera Hashgraph,General,71.20,2024,3
+67,984,TRON,General,70.70,2024,3
+68,769,Cosmos,General,70.42,2024,3
+69,1036,Polygon,General,70.13,2024,3
+70,4688,Polkadot,General,70.08,2024,3
+71,5613,Aave,General,69.69,2024,3
+72,3844,Trust Wallet Token,General,69.60,2024,3
+73,8477,Mina Protocol (IOU),General,69.53,2024,3
+74,15951,BitTorrent,General,69.19,2024,3
+75,6569,The Graph,General,68.28,2024,3
+76,1087,Kava,General,67.95,2024,3
+77,5674,PancakeSwap,General,67.86,2024,3
+78,907,Decentraland,General,66.75,2024,3
+79,996,Maker,General,66.27,2024,3
+80,1011,Theta Network,General,66.17,2024,3
+81,986,Monero,General,65.74,2024,3
+82,1014,Enjin Coin,General,65.70,2024,3
+83,1032,Zilliqa,General,65.40,2024,3
+84,985,Tezos,General,65.37,2024,3
+85,7102,Flow - Dapper Labs,General,65.03,2024,3
+86,1118,VeThor Token,General,64.60,2024,3
+87,659,ChainLink,General,64.35,2024,3
+88,4708,SAND,General,64.30,2024,3
+89,1081,Harmony,General,64.29,2024,3
+540,376,Bitcoin,General,82.49,2023,39
+541,978,Ethereum,General,81.15,2023,39
+542,5518,Avalanche,General,73.92,2023,39
+543,979,XRP,General,73.52,2023,39
+544,345,Binance Coin,General,73.48,2023,39
+545,8839,Internet Computer,General,72.65,2023,39
+546,659,ChainLink,General,70.05,2023,39
+547,621,Cardano,General,69.42,2023,39
+548,984,TRON,General,69.39,2023,39
+549,5395,Uniswap,General,69.31,2023,39
+550,998,Dogecoin,General,69.25,2023,39
+551,4688,Polkadot,General,68.98,2023,39
+552,769,Cosmos,General,68.63,2023,39
+553,1036,Polygon,General,68.49,2023,39
+554,3844,Trust Wallet Token,General,68.45,2023,39
+555,3747,Solana,General,68.36,2023,39
+556,994,VeChain,General,68.13,2023,39
+557,1069,Hedera Hashgraph,General,68.08,2023,39
+558,5613,Aave,General,67.91,2023,39
+559,983,Stellar,General,67.77,2023,39
+560,147,Algorand,General,67.56,2023,39
+561,6569,The Graph,General,67.34,2023,39
+562,382,Bitcoin Cash,General,66.25,2023,39
+563,18126,Optimism,General,65.93,2023,39
+564,996,Maker,General,65.62,2023,39
+565,986,Monero,General,65.35,2023,39
+566,6009,Axie Infinity,General,65.28,2023,39
+567,5674,PancakeSwap,General,65.27,2023,39
+568,6723,Lido DAO,General,65.23,2023,39
+569,1087,Kava,General,65.15,2023,39
+570,376,Bitcoin,General,82.81,2023,40
+571,978,Ethereum,General,82.63,2023,40
+572,5518,Avalanche,General,74.20,2023,40
+573,979,XRP,General,73.95,2023,40
+574,345,Binance Coin,General,73.55,2023,40
+575,8839,Internet Computer,General,71.36,2023,40
+576,3844,Trust Wallet Token,General,70.10,2023,40
+577,621,Cardano,General,69.43,2023,40
+578,998,Dogecoin,General,69.32,2023,40
+579,659,ChainLink,General,69.29,2023,40
+580,984,TRON,General,69.12,2023,40
+581,4688,Polkadot,General,69.06,2023,40
+582,1036,Polygon,General,69.04,2023,40
+583,3747,Solana,General,68.62,2023,40
+584,769,Cosmos,General,68.33,2023,40
+585,994,VeChain,General,68.17,2023,40
+586,18126,Optimism,General,68.07,2023,40
+587,1069,Hedera Hashgraph,General,68.06,2023,40
+588,5395,Uniswap,General,68.00,2023,40
+589,983,Stellar,General,67.81,2023,40
+590,5613,Aave,General,67.67,2023,40
+591,18408,Kaspa,General,67.22,2023,40
+592,6569,The Graph,General,67.15,2023,40
+593,10418,The Open Network,General,67.06,2023,40
+594,147,Algorand,General,66.61,2023,40
+595,988,OKB,General,66.58,2023,40
+596,6009,Axie Infinity,General,66.00,2023,40
+597,986,Monero,General,65.73,2023,40
+598,981,Litecoin,General,65.67,2023,40
+599,1087,Kava,General,65.29,2023,40
+600,376,Bitcoin,General,82.23,2023,41
+601,978,Ethereum,General,82.15,2023,41
+602,345,Binance Coin,General,73.36,2023,41
+603,979,XRP,General,73.25,2023,41
+604,5518,Avalanche,General,72.21,2023,41
+605,8839,Internet Computer,General,72.20,2023,41
+606,621,Cardano,General,70.66,2023,41
+607,998,Dogecoin,General,69.71,2023,41
+608,3844,Trust Wallet Token,General,69.30,2023,41
+609,659,ChainLink,General,69.22,2023,41
+610,984,TRON,General,69.02,2023,41
+611,1069,Hedera Hashgraph,General,68.47,2023,41
+612,4688,Polkadot,General,68.46,2023,41
+613,1036,Polygon,General,68.44,2023,41
+614,5395,Uniswap,General,68.41,2023,41
+615,3747,Solana,General,68.25,2023,41
+616,769,Cosmos,General,68.17,2023,41
+617,994,VeChain,General,68.11,2023,41
+618,18126,Optimism,General,67.97,2023,41
+619,983,Stellar,General,67.53,2023,41
+620,5613,Aave,General,67.40,2023,41
+621,18408,Kaspa,General,66.69,2023,41
+622,6569,The Graph,General,66.60,2023,41
+623,147,Algorand,General,66.44,2023,41
+624,6009,Axie Infinity,General,65.38,2023,41
+625,996,Maker,General,65.22,2023,41
+626,5674,PancakeSwap,General,65.09,2023,41
+627,986,Monero,General,65.02,2023,41
+628,22399,Pepa ERC,General,65.00,2023,41
+629,987,LEO Token,General,64.99,2023,41
+630,376,Bitcoin,General,83.57,2023,42
+631,978,Ethereum,General,82.86,2023,42
+632,979,XRP,General,74.00,2023,42
+633,345,Binance Coin,General,73.25,2023,42
+634,5518,Avalanche,General,72.25,2023,42
+635,8839,Internet Computer,General,71.99,2023,42
+636,659,ChainLink,General,69.89,2023,42
+637,3747,Solana,General,69.61,2023,42
+638,998,Dogecoin,General,69.54,2023,42
+639,621,Cardano,General,69.23,2023,42
+640,984,TRON,General,69.22,2023,42
+641,4688,Polkadot,General,69.12,2023,42
+642,3844,Trust Wallet Token,General,69.07,2023,42
+643,1036,Polygon,General,68.82,2023,42
+644,5395,Uniswap,General,68.71,2023,42
+645,18408,Kaspa,General,68.60,2023,42
+646,769,Cosmos,General,68.56,2023,42
+647,1069,Hedera Hashgraph,General,68.45,2023,42
+648,18126,Optimism,General,68.44,2023,42
+649,994,VeChain,General,68.31,2023,42
+650,5613,Aave,General,68.09,2023,42
+651,983,Stellar,General,68.08,2023,42
+652,10418,The Open Network,General,67.47,2023,42
+653,6569,The Graph,General,67.05,2023,42
+654,147,Algorand,General,66.64,2023,42
+655,6009,Axie Infinity,General,66.15,2023,42
+656,5674,PancakeSwap,General,65.47,2023,42
+657,1087,Kava,General,65.43,2023,42
+658,996,Maker,General,65.27,2023,42
+659,986,Monero,General,65.20,2023,42
+660,978,Ethereum,General,84.58,2023,43
+661,376,Bitcoin,General,81.72,2023,43
+662,5518,Avalanche,General,72.35,2023,43
+663,659,ChainLink,General,70.29,2023,43
+664,979,XRP,General,69.69,2023,43
+665,345,Binance Coin,General,69.43,2023,43
+666,3844,Trust Wallet Token,General,69.15,2023,43
+667,4688,Polkadot,General,69.14,2023,43
+668,984,TRON,General,69.07,2023,43
+669,6569,The Graph,General,68.75,2023,43
+670,1036,Polygon,General,68.75,2023,43
+671,769,Cosmos,General,68.67,2023,43
+672,8477,Mina Protocol (IOU),General,67.27,2023,43
+673,8839,Internet Computer,General,66.66,2023,43
+674,1087,Kava,General,65.73,2023,43
+675,621,Cardano,General,65.57,2023,43
+676,996,Maker,General,65.18,2023,43
+677,15951,BitTorrent,General,65.11,2023,43
+678,18126,Optimism,General,64.86,2023,43
+679,1069,Hedera Hashgraph,General,64.63,2023,43
+680,2391,Klaytn,General,64.61,2023,43
+681,994,VeChain,General,64.54,2023,43
+682,5613,Aave,General,64.49,2023,43
+683,995,Ontology,General,64.18,2023,43
+684,6641,1inch,General,64.14,2023,43
+685,1032,Zilliqa,General,64.02,2023,43
+686,1118,VeThor Token,General,63.90,2023,43
+687,1090,IoTeX,General,63.89,2023,43
+688,1081,Harmony,General,63.70,2023,43
+689,1006,Waves,General,63.52,2023,43
+690,978,Ethereum,General,83.04,2023,44
+691,376,Bitcoin,General,78.50,2023,44
+692,5518,Avalanche,General,72.40,2023,44
+693,3844,Trust Wallet Token,General,70.23,2023,44
+694,659,ChainLink,General,70.23,2023,44
+695,979,XRP,General,70.16,2023,44
+696,345,Binance Coin,General,69.97,2023,44
+697,769,Cosmos,General,69.61,2023,44
+698,984,TRON,General,69.29,2023,44
+699,4688,Polkadot,General,69.23,2023,44
+700,1036,Polygon,General,69.14,2023,44
+701,6569,The Graph,General,68.90,2023,44
+702,8839,Internet Computer,General,68.74,2023,44
+703,996,Maker,General,66.84,2023,44
+704,1087,Kava,General,66.59,2023,44
+705,621,Cardano,General,66.20,2023,44
+706,8477,Mina Protocol (IOU),General,65.88,2023,44
+707,15951,BitTorrent,General,65.55,2023,44
+708,1069,Hedera Hashgraph,General,65.26,2023,44
+709,2391,Klaytn,General,65.04,2023,44
+710,21307,CatKing,General,65.00,2023,44
+711,18126,Optimism,General,64.84,2023,44
+712,5613,Aave,General,64.58,2023,44
+713,6641,1inch,General,64.52,2023,44
+714,994,VeChain,General,64.48,2023,44
+715,1032,Zilliqa,General,64.43,2023,44
+716,18408,Kaspa,General,64.42,2023,44
+717,1014,Enjin Coin,General,64.41,2023,44
+718,147,Algorand,General,64.02,2023,44
+719,1118,VeThor Token,General,63.99,2023,44
+720,978,Ethereum,General,86.42,2023,45
+721,376,Bitcoin,General,81.04,2023,45
+722,5518,Avalanche,General,72.79,2023,45
+723,979,XRP,General,70.72,2023,45
+724,659,ChainLink,General,70.69,2023,45
+725,345,Binance Coin,General,70.32,2023,45
+726,769,Cosmos,General,69.44,2023,45
+727,4688,Polkadot,General,69.39,2023,45
+728,984,TRON,General,69.29,2023,45
+729,3844,Trust Wallet Token,General,69.14,2023,45
+730,1036,Polygon,General,69.11,2023,45
+731,6569,The Graph,General,68.97,2023,45
+732,996,Maker,General,67.19,2023,45
+733,1087,Kava,General,67.14,2023,45
+734,8477,Mina Protocol (IOU),General,66.79,2023,45
+735,621,Cardano,General,66.57,2023,45
+736,18408,Kaspa,General,65.89,2023,45
+737,8839,Internet Computer,General,65.73,2023,45
+738,1069,Hedera Hashgraph,General,65.52,2023,45
+739,15951,BitTorrent,General,65.41,2023,45
+740,2391,Klaytn,General,65.36,2023,45
+741,6641,1inch,General,65.36,2023,45
+742,18126,Optimism,General,65.05,2023,45
+743,1032,Zilliqa,General,64.81,2023,45
+744,5613,Aave,General,64.77,2023,45
+745,147,Algorand,General,64.55,2023,45
+746,994,VeChain,General,64.54,2023,45
+747,1094,Fetch.ai,General,64.47,2023,45
+748,985,Tezos,General,64.31,2023,45
+749,1006,Waves,General,64.18,2023,45
+750,376,Bitcoin,General,79.27,2023,46
+751,978,Ethereum,General,79.06,2023,46
+752,5518,Avalanche,General,74.51,2023,46
+753,769,Cosmos,General,70.92,2023,46
+754,979,XRP,General,69.50,2023,46
+755,4688,Polkadot,General,69.40,2023,46
+756,345,Binance Coin,General,69.28,2023,46
+757,984,TRON,General,69.19,2023,46
+758,659,ChainLink,General,69.10,2023,46
+759,1036,Polygon,General,68.80,2023,46
+760,6569,The Graph,General,68.29,2023,46
+761,3844,Trust Wallet Token,General,67.75,2023,46
+762,8839,Internet Computer,General,67.18,2023,46
+763,1118,VeThor Token,General,66.67,2023,46
+764,1087,Kava,General,66.08,2023,46
+765,996,Maker,General,65.63,2023,46
+766,18408,Kaspa,General,65.56,2023,46
+767,15951,BitTorrent,General,65.55,2023,46
+768,621,Cardano,General,65.39,2023,46
+769,8477,Mina Protocol (IOU),General,65.29,2023,46
+770,1069,Hedera Hashgraph,General,64.71,2023,46
+771,18126,Optimism,General,64.71,2023,46
+772,1032,Zilliqa,General,64.11,2023,46
+773,147,Algorand,General,64.07,2023,46
+774,994,VeChain,General,63.83,2023,46
+775,6641,1inch,General,63.72,2023,46
+776,1014,Enjin Coin,General,63.54,2023,46
+777,5613,Aave,General,63.47,2023,46
+778,1006,Waves,General,63.40,2023,46
+779,995,Ontology,General,63.33,2023,46
+780,376,Bitcoin,General,80.75,2023,47
+781,978,Ethereum,General,78.93,2023,47
+782,5518,Avalanche,General,72.81,2023,47
+783,659,ChainLink,General,69.77,2023,47
+784,769,Cosmos,General,69.31,2023,47
+785,4688,Polkadot,General,69.22,2023,47
+786,984,TRON,General,69.15,2023,47
+787,6569,The Graph,General,68.85,2023,47
+788,1036,Polygon,General,68.25,2023,47
+789,3844,Trust Wallet Token,General,68.01,2023,47
+790,8477,Mina Protocol (IOU),General,67.90,2023,47
+791,8839,Internet Computer,General,66.53,2023,47
+792,1087,Kava,General,66.53,2023,47
+793,996,Maker,General,65.61,2023,47
+794,15951,BitTorrent,General,64.94,2023,47
+795,1069,Hedera Hashgraph,General,64.86,2023,47
+796,18126,Optimism,General,64.68,2023,47
+797,5613,Aave,General,64.58,2023,47
+798,6641,1inch,General,64.53,2023,47
+799,994,VeChain,General,64.22,2023,47
+800,147,Algorand,General,64.08,2023,47
+801,1032,Zilliqa,General,64.04,2023,47
+802,1118,VeThor Token,General,63.84,2023,47
+803,995,Ontology,General,63.59,2023,47
+804,6009,Axie Infinity,General,63.36,2023,47
+805,1210,Matrix AI Network,General,63.32,2023,47
+806,1006,Waves,General,63.22,2023,47
+807,15733,Acala,General,63.01,2023,47
+808,1094,Fetch.ai,General,62.92,2023,47
+809,2391,Klaytn,General,62.77,2023,47
+810,376,Bitcoin,General,68.59,2023,48
+811,978,Ethereum,General,65.91,2023,48
+812,5518,Avalanche,General,59.83,2023,48
+813,659,ChainLink,General,57.99,2023,48
+814,769,Cosmos,General,57.54,2023,48
+815,1036,Polygon,General,57.46,2023,48
+816,984,TRON,General,57.26,2023,48
+817,4688,Polkadot,General,57.19,2023,48
+818,6569,The Graph,General,57.15,2023,48
+819,979,XRP,General,56.91,2023,48
+820,3844,Trust Wallet Token,General,56.20,2023,48
+821,1087,Kava,General,55.42,2023,48
+822,8839,Internet Computer,General,55.33,2023,48
+823,8477,Mina Protocol (IOU),General,55.26,2023,48
+824,345,Binance Coin,General,55.22,2023,48
+825,621,Cardano,General,54.40,2023,48
+826,15951,BitTorrent,General,53.87,2023,48
+827,1069,Hedera Hashgraph,General,53.80,2023,48
+828,18126,Optimism,General,53.09,2023,48
+829,5613,Aave,General,53.01,2023,48
+830,994,VeChain,General,52.89,2023,48
+831,1032,Zilliqa,General,52.87,2023,48
+832,3078,Ontology Gas,General,52.67,2023,48
+833,147,Algorand,General,52.52,2023,48
+834,6641,1inch,General,52.47,2023,48
+835,995,Ontology,General,52.47,2023,48
+836,1118,VeThor Token,General,52.43,2023,48
+837,1006,Waves,General,52.13,2023,48
+838,1094,Fetch.ai,General,51.72,2023,48
+839,15733,Acala,General,51.63,2023,48
+840,376,Bitcoin,General,87.27,2023,49
+841,345,Binance Coin,General,75.15,2023,49
+842,978,Ethereum,General,64.66,2023,49
+843,5518,Avalanche,General,61.37,2023,49
+844,15951,BitTorrent,General,58.53,2023,49
+845,659,ChainLink,General,57.92,2023,49
+846,4688,Polkadot,General,57.77,2023,49
+847,6569,The Graph,General,57.32,2023,49
+848,1036,Polygon,General,57.30,2023,49
+849,769,Cosmos,General,57.21,2023,49
+850,984,TRON,General,57.15,2023,49
+851,3844,Trust Wallet Token,General,56.29,2023,49
+852,1087,Kava,General,56.14,2023,49
+853,621,Cardano,General,55.82,2023,49
+854,22511,Polygon Ecosystem Token,General,55.79,2023,49
+855,979,XRP,General,55.76,2023,49
+856,8477,Mina Protocol (IOU),General,55.55,2023,49
+857,8839,Internet Computer,General,55.49,2023,49
+858,5674,PancakeSwap,General,55.37,2023,49
+859,1069,Hedera Hashgraph,General,53.89,2023,49
+860,996,Maker,General,53.79,2023,49
+861,18126,Optimism,General,53.59,2023,49
+862,1032,Zilliqa,General,53.39,2023,49
+863,147,Algorand,General,53.38,2023,49
+864,6641,1inch,General,53.27,2023,49
+865,994,VeChain,General,53.14,2023,49
+866,6009,Axie Infinity,General,52.94,2023,49
+867,1118,VeThor Token,General,52.73,2023,49
+868,18408,Kaspa,General,52.71,2023,49
+869,995,Ontology,General,52.65,2023,49
+870,376,Bitcoin,General,79.01,2023,50
+871,978,Ethereum,General,74.56,2023,50
+872,5518,Avalanche,General,73.93,2023,50
+873,1036,Polygon,General,69.53,2023,50
+874,984,TRON,General,69.25,2023,50
+875,8839,Internet Computer,General,69.22,2023,50
+876,15951,BitTorrent,General,68.76,2023,50
+877,769,Cosmos,General,68.72,2023,50
+878,345,Binance Coin,General,68.69,2023,50
+879,659,ChainLink,General,68.64,2023,50
+880,4688,Polkadot,General,68.46,2023,50
+881,6569,The Graph,General,68.06,2023,50
+882,3844,Trust Wallet Token,General,67.54,2023,50
+883,8477,Mina Protocol (IOU),General,66.67,2023,50
+884,5674,PancakeSwap,General,66.30,2023,50
+885,1087,Kava,General,66.28,2023,50
+886,621,Cardano,General,65.92,2023,50
+887,979,XRP,General,65.45,2023,50
+888,996,Maker,General,64.54,2023,50
+889,18126,Optimism,General,64.48,2023,50
+890,1118,VeThor Token,General,64.44,2023,50
+891,1060,GXChain,General,64.01,2023,50
+892,1032,Zilliqa,General,63.75,2023,50
+893,994,VeChain,General,63.75,2023,50
+894,6641,1inch,General,63.73,2023,50
+895,1014,Enjin Coin,General,63.66,2023,50
+896,5613,Aave,General,63.59,2023,50
+897,1094,Fetch.ai,General,63.29,2023,50
+898,995,Ontology,General,63.10,2023,50
+899,147,Algorand,General,63.00,2023,50
+900,376,Bitcoin,General,71.23,2023,51
+901,978,Ethereum,General,61.87,2023,51
+902,621,Cardano,General,60.35,2023,51
+903,345,Binance Coin,General,59.60,2023,51
+904,979,XRP,General,58.85,2023,51
+905,8839,Internet Computer,General,58.51,2023,51
+906,5518,Avalanche,General,58.15,2023,51
+907,18126,Optimism,General,55.93,2023,51
+908,659,ChainLink,General,55.86,2023,51
+909,1069,Hedera Hashgraph,General,55.82,2023,51
+910,984,TRON,General,55.55,2023,51
+911,1036,Polygon,General,55.52,2023,51
+912,4688,Polkadot,General,55.33,2023,51
+913,6569,The Graph,General,55.14,2023,51
+914,8477,Mina Protocol (IOU),General,55.02,2023,51
+915,994,VeChain,General,54.87,2023,51
+916,3844,Trust Wallet Token,General,54.56,2023,51
+917,147,Algorand,General,54.53,2023,51
+918,5674,PancakeSwap,General,54.52,2023,51
+919,5613,Aave,General,54.36,2023,51
+920,769,Cosmos,General,54.34,2023,51
+921,15951,BitTorrent,General,54.00,2023,51
+922,10410,Moonriver,General,53.88,2023,51
+923,6009,Axie Infinity,General,53.59,2023,51
+924,1087,Kava,General,53.37,2023,51
+925,2391,Klaytn,General,52.40,2023,51
+926,7102,Flow - Dapper Labs,General,52.10,2023,51
+927,15776,Astar,General,52.09,2023,51
+928,5900,Near,General,51.85,2023,51
+929,1090,IoTeX,General,51.73,2023,51
+930,376,Bitcoin,General,79.08,2023,52
+931,978,Ethereum,General,69.48,2023,52
+932,8839,Internet Computer,General,68.75,2023,52
+933,345,Binance Coin,General,68.29,2023,52
+934,979,XRP,General,65.73,2023,52
+935,5518,Avalanche,General,65.70,2023,52
+936,1036,Polygon,General,64.49,2023,52
+937,621,Cardano,General,64.40,2023,52
+938,659,ChainLink,General,64.12,2023,52
+939,18126,Optimism,General,63.72,2023,52
+940,984,TRON,General,63.66,2023,52
+941,8477,Mina Protocol (IOU),General,63.45,2023,52
+942,4688,Polkadot,General,63.43,2023,52
+943,6009,Axie Infinity,General,63.38,2023,52
+944,5613,Aave,General,63.15,2023,52
+945,5674,PancakeSwap,General,63.11,2023,52
+946,1069,Hedera Hashgraph,General,63.07,2023,52
+947,3844,Trust Wallet Token,General,62.93,2023,52
+948,6569,The Graph,General,62.88,2023,52
+949,15951,BitTorrent,General,62.78,2023,52
+950,994,VeChain,General,62.76,2023,52
+951,769,Cosmos,General,62.63,2023,52
+952,1087,Kava,General,62.01,2023,52
+953,147,Algorand,General,61.95,2023,52
+954,15776,Astar,General,61.65,2023,52
+955,2391,Klaytn,General,60.65,2023,52
+956,907,Decentraland,General,59.58,2023,52
+957,4696,Curve DAO Token,General,59.55,2023,52
+958,7102,Flow - Dapper Labs,General,59.49,2023,52
+959,996,Maker,General,59.41,2023,52
