@@ -1,0 +1,511 @@
+,id_project,name,top,score,year,week
+0,978,Ethereum,Development,10.03,2024,1
+1,978,Ethereum,Development,10.03,2024,1
+2,17115,Wrapped Bitcoin (Sollet),Development,9.08,2024,1
+3,376,Bitcoin,Development,9.08,2024,1
+4,376,Bitcoin,Development,9.08,2024,1
+5,17115,Wrapped Bitcoin (Sollet),Development,9.08,2024,1
+6,5395,Uniswap,Development,8.39,2024,1
+7,5395,Uniswap,Development,8.39,2024,1
+8,907,Decentraland,Development,8.21,2024,1
+9,907,Decentraland,Development,8.21,2024,1
+10,659,ChainLink,Development,8.12,2024,1
+11,659,ChainLink,Development,8.12,2024,1
+12,1471,Mysterium,Development,8.09,2024,1
+13,1471,Mysterium,Development,8.09,2024,1
+14,3844,Trust Wallet Token,Development,8.02,2024,1
+15,3844,Trust Wallet Token,Development,8.02,2024,1
+16,22489,Beam,Development,8.00,2024,1
+17,22542,Shido,Development,8.00,2024,1
+18,16295,TOR,Development,8.00,2024,1
+19,24663,Rocky the dog,Development,8.00,2024,1
+20,16945,ApeX,Development,8.00,2024,1
+21,22486,Celestia,Development,8.00,2024,1
+22,22477,Sei,Development,8.00,2024,1
+23,22475,First Digital USD,Development,8.00,2024,1
+24,18795,WhiteBIT Token,Development,8.00,2024,1
+25,13246,ConstitutionDAO,Development,8.00,2024,1
+26,17403,ritestream,Development,8.00,2024,1
+27,22887,SoonVerse,Development,8.00,2024,1
+28,22525,Myro,Development,8.00,2024,1
+29,18811,Bitget Token,Development,8.00,2024,1
+30,978,Ethereum,Development,10.03,2024,2
+31,376,Bitcoin,Development,9.09,2024,2
+32,17115,Wrapped Bitcoin (Sollet),Development,9.08,2024,2
+33,5395,Uniswap,Development,8.38,2024,2
+34,907,Decentraland,Development,8.21,2024,2
+35,1471,Mysterium,Development,8.09,2024,2
+36,659,ChainLink,Development,8.09,2024,2
+37,3844,Trust Wallet Token,Development,8.01,2024,2
+38,24663,Rocky the dog,Development,8.00,2024,2
+39,18795,WhiteBIT Token,Development,8.00,2024,2
+40,22668,Mintra,Development,8.00,2024,2
+41,22712,Hex Orange Address,Development,8.00,2024,2
+42,22484,CryptoPawCoin,Development,8.00,2024,2
+43,18175,Source Protocol,Development,8.00,2024,2
+44,11005,The Three Kingdoms,Development,8.00,2024,2
+45,22465,ORDI,Development,8.00,2024,2
+46,19609,KLEVA,Development,8.00,2024,2
+47,22489,Beam,Development,8.00,2024,2
+48,24830,dogwifhat,Development,8.00,2024,2
+49,17345,Drunk Robots,Development,8.00,2024,2
+50,23383,dYdX,Development,8.00,2024,2
+51,21068,Cheelee,Development,8.00,2024,2
+52,20752,Blur,Development,8.00,2024,2
+53,24276,SATS (Ordinals),Development,8.00,2024,2
+54,18695,Trivians,Development,8.00,2024,2
+55,22477,Sei,Development,8.00,2024,2
+56,18835,Bonk,Development,8.00,2024,2
+57,12264,Ethereum Name Service,Development,8.00,2024,2
+58,22475,First Digital USD,Development,8.00,2024,2
+59,22486,Celestia,Development,8.00,2024,2
+60,978,Ethereum,Development,10.03,2024,3
+61,17115,Wrapped Bitcoin (Sollet),Development,9.10,2024,3
+62,376,Bitcoin,Development,9.09,2024,3
+63,1103,Gnosis,Development,8.36,2024,3
+64,5395,Uniswap,Development,8.36,2024,3
+65,907,Decentraland,Development,8.15,2024,3
+66,659,ChainLink,Development,8.09,2024,3
+67,1471,Mysterium,Development,8.09,2024,3
+68,3844,Trust Wallet Token,Development,8.01,2024,3
+69,5083,Shiba Inu,Development,8.00,2024,3
+70,981,Litecoin,Development,8.00,2024,3
+71,3747,Solana,Development,8.00,2024,3
+72,6583,Staked Ether,Development,8.00,2024,3
+73,10418,The Open Network,Development,8.00,2024,3
+74,983,Stellar,Development,7.96,2024,3
+75,769,Cosmos,Development,7.94,2024,3
+76,1135,LBRY Credits,Development,7.93,2024,3
+77,621,Cardano,Development,7.89,2024,3
+78,22702,Moove Protocol,Development,7.87,2024,3
+79,1045,MaidSafeCoin,Development,7.87,2024,3
+80,7922,Aave MANA v1,Development,7.85,2024,3
+81,7934,Aave DAI v1,Development,7.85,2024,3
+82,4375,Aave ZRX,Development,7.85,2024,3
+83,4365,Aave BUSD,Development,7.85,2024,3
+84,7928,Aave TUSD v1,Development,7.85,2024,3
+85,4351,Aave KNC,Development,7.85,2024,3
+86,4349,Aave USDC,Development,7.85,2024,3
+87,7910,Aave WBTC v1,Development,7.85,2024,3
+88,4364,Aave SUSD,Development,7.85,2024,3
+89,4414,Aave WBTC,Development,7.85,2024,3
+90,11726,2crazyNFT,Development,10.00,2023,39
+91,978,Ethereum,Development,10.00,2023,39
+92,376,Bitcoin,Development,9.12,2023,39
+93,17115,Wrapped Bitcoin (Sollet),Development,9.12,2023,39
+94,5395,Uniswap,Development,8.34,2023,39
+95,659,ChainLink,Development,8.22,2023,39
+96,3844,Trust Wallet Token,Development,8.00,2023,39
+97,769,Cosmos,Development,7.96,2023,39
+98,621,Cardano,Development,7.93,2023,39
+99,1135,LBRY Credits,Development,7.93,2023,39
+100,983,Stellar,Development,7.87,2023,39
+101,7916,Aave BUSD v1,Development,7.86,2023,39
+102,4375,Aave ZRX,Development,7.86,2023,39
+103,7914,Aave SNX v1,Development,7.86,2023,39
+104,4365,Aave BUSD,Development,7.86,2023,39
+105,4364,Aave SUSD,Development,7.86,2023,39
+106,7890,Aave LINK v1,Development,7.86,2023,39
+107,7934,Aave DAI v1,Development,7.86,2023,39
+108,7910,Aave WBTC v1,Development,7.86,2023,39
+109,7922,Aave MANA v1,Development,7.86,2023,39
+110,4414,Aave WBTC,Development,7.86,2023,39
+111,7918,Aave ZRX v1,Development,7.86,2023,39
+112,4356,Aave SNX,Development,7.86,2023,39
+113,7932,Aave USDC v1,Development,7.86,2023,39
+114,7911,Aave MKR v1,Development,7.86,2023,39
+115,3963,Aave DAI,Development,7.85,2023,39
+116,4352,Aave TUSD,Development,7.85,2023,39
+117,4359,Aave MKR,Development,7.85,2023,39
+118,4344,Aave LINK,Development,7.85,2023,39
+119,7920,Aave KNC v1,Development,7.85,2023,39
+120,978,Ethereum,Development,10.00,2023,40
+121,17115,Wrapped Bitcoin (Sollet),Development,9.10,2023,40
+122,376,Bitcoin,Development,9.10,2023,40
+123,5395,Uniswap,Development,8.28,2023,40
+124,659,ChainLink,Development,8.11,2023,40
+125,3844,Trust Wallet Token,Development,8.01,2023,40
+126,980,Tether,Development,8.00,2023,40
+127,983,Stellar,Development,7.93,2023,40
+128,1135,LBRY Credits,Development,7.93,2023,40
+129,769,Cosmos,Development,7.93,2023,40
+130,621,Cardano,Development,7.93,2023,40
+131,345,Binance Coin,Development,7.86,2023,40
+132,5613,Aave,Development,7.86,2023,40
+133,7916,Aave BUSD v1,Development,7.85,2023,40
+134,4351,Aave KNC,Development,7.85,2023,40
+135,4414,Aave WBTC,Development,7.85,2023,40
+136,7922,Aave MANA v1,Development,7.85,2023,40
+137,7911,Aave MKR v1,Development,7.85,2023,40
+138,7932,Aave USDC v1,Development,7.85,2023,40
+139,4364,Aave SUSD,Development,7.85,2023,40
+140,7928,Aave TUSD v1,Development,7.85,2023,40
+141,7918,Aave ZRX v1,Development,7.85,2023,40
+142,3963,Aave DAI,Development,7.85,2023,40
+143,7930,Aave SUSD v1,Development,7.85,2023,40
+144,4349,Aave USDC,Development,7.85,2023,40
+145,7920,Aave KNC v1,Development,7.85,2023,40
+146,7914,Aave SNX v1,Development,7.85,2023,40
+147,7890,Aave LINK v1,Development,7.85,2023,40
+148,4344,Aave LINK,Development,7.85,2023,40
+149,7910,Aave WBTC v1,Development,7.85,2023,40
+150,978,Ethereum,Development,10.00,2023,41
+151,22399,Pepa ERC,Development,10.00,2023,41
+152,17115,Wrapped Bitcoin (Sollet),Development,9.13,2023,41
+153,376,Bitcoin,Development,9.13,2023,41
+154,5395,Uniswap,Development,8.35,2023,41
+155,621,Cardano,Development,8.16,2023,41
+156,659,ChainLink,Development,8.07,2023,41
+157,3844,Trust Wallet Token,Development,8.00,2023,41
+158,769,Cosmos,Development,7.94,2023,41
+159,1135,LBRY Credits,Development,7.93,2023,41
+160,983,Stellar,Development,7.92,2023,41
+161,7922,Aave MANA v1,Development,7.86,2023,41
+162,7920,Aave KNC v1,Development,7.86,2023,41
+163,4352,Aave TUSD,Development,7.86,2023,41
+164,4365,Aave BUSD,Development,7.86,2023,41
+165,7890,Aave LINK v1,Development,7.86,2023,41
+166,7916,Aave BUSD v1,Development,7.86,2023,41
+167,4364,Aave SUSD,Development,7.86,2023,41
+168,4372,Aave MANA,Development,7.86,2023,41
+169,7932,Aave USDC v1,Development,7.86,2023,41
+170,4359,Aave MKR,Development,7.86,2023,41
+171,4351,Aave KNC,Development,7.86,2023,41
+172,4414,Aave WBTC,Development,7.86,2023,41
+173,4344,Aave LINK,Development,7.86,2023,41
+174,4356,Aave SNX,Development,7.86,2023,41
+175,7934,Aave DAI v1,Development,7.86,2023,41
+176,7911,Aave MKR v1,Development,7.86,2023,41
+177,3963,Aave DAI,Development,7.86,2023,41
+178,4349,Aave USDC,Development,7.86,2023,41
+179,7918,Aave ZRX v1,Development,7.86,2023,41
+180,978,Ethereum,Development,10.00,2023,42
+181,376,Bitcoin,Development,9.11,2023,42
+182,17115,Wrapped Bitcoin (Sollet),Development,9.11,2023,42
+183,5395,Uniswap,Development,8.32,2023,42
+184,659,ChainLink,Development,8.06,2023,42
+185,3844,Trust Wallet Token,Development,8.00,2023,42
+186,121,Aeternity,Development,7.96,2023,42
+187,769,Cosmos,Development,7.92,2023,42
+188,1135,LBRY Credits,Development,7.92,2023,42
+189,983,Stellar,Development,7.90,2023,42
+190,4356,Aave SNX,Development,7.85,2023,42
+191,4349,Aave USDC,Development,7.85,2023,42
+192,4359,Aave MKR,Development,7.85,2023,42
+193,4375,Aave ZRX,Development,7.85,2023,42
+194,7914,Aave SNX v1,Development,7.85,2023,42
+195,4372,Aave MANA,Development,7.85,2023,42
+196,14449,Aave ETH v1,Development,7.85,2023,42
+197,7932,Aave USDC v1,Development,7.85,2023,42
+198,4344,Aave LINK,Development,7.85,2023,42
+199,4351,Aave KNC,Development,7.85,2023,42
+200,4352,Aave TUSD,Development,7.85,2023,42
+201,5613,Aave,Development,7.85,2023,42
+202,7911,Aave MKR v1,Development,7.85,2023,42
+203,7934,Aave DAI v1,Development,7.85,2023,42
+204,7930,Aave SUSD v1,Development,7.85,2023,42
+205,4364,Aave SUSD,Development,7.85,2023,42
+206,7920,Aave KNC v1,Development,7.85,2023,42
+207,7916,Aave BUSD v1,Development,7.85,2023,42
+208,7928,Aave TUSD v1,Development,7.85,2023,42
+209,4414,Aave WBTC,Development,7.85,2023,42
+210,978,Ethereum,Development,10.00,2023,43
+211,376,Bitcoin,Development,9.12,2023,43
+212,17115,Wrapped Bitcoin (Sollet),Development,9.12,2023,43
+213,5395,Uniswap,Development,8.36,2023,43
+214,659,ChainLink,Development,8.08,2023,43
+215,3844,Trust Wallet Token,Development,8.01,2023,43
+216,621,Cardano,Development,7.97,2023,43
+217,983,Stellar,Development,7.94,2023,43
+218,1135,LBRY Credits,Development,7.92,2023,43
+219,769,Cosmos,Development,7.89,2023,43
+220,3963,Aave DAI,Development,7.86,2023,43
+221,7890,Aave LINK v1,Development,7.86,2023,43
+222,4375,Aave ZRX,Development,7.86,2023,43
+223,7930,Aave SUSD v1,Development,7.86,2023,43
+224,4372,Aave MANA,Development,7.86,2023,43
+225,4356,Aave SNX,Development,7.86,2023,43
+226,4344,Aave LINK,Development,7.86,2023,43
+227,4365,Aave BUSD,Development,7.86,2023,43
+228,7914,Aave SNX v1,Development,7.86,2023,43
+229,7910,Aave WBTC v1,Development,7.86,2023,43
+230,7911,Aave MKR v1,Development,7.86,2023,43
+231,4364,Aave SUSD,Development,7.86,2023,43
+232,4351,Aave KNC,Development,7.86,2023,43
+233,7932,Aave USDC v1,Development,7.86,2023,43
+234,7934,Aave DAI v1,Development,7.86,2023,43
+235,7922,Aave MANA v1,Development,7.86,2023,43
+236,7920,Aave KNC v1,Development,7.86,2023,43
+237,4414,Aave WBTC,Development,7.86,2023,43
+238,7928,Aave TUSD v1,Development,7.86,2023,43
+239,7918,Aave ZRX v1,Development,7.86,2023,43
+240,978,Ethereum,Development,10.00,2023,44
+241,21307,CatKing,Development,10.00,2023,44
+242,376,Bitcoin,Development,9.11,2023,44
+243,17115,Wrapped Bitcoin (Sollet),Development,9.10,2023,44
+244,1052,Golem,Development,8.71,2023,44
+245,5395,Uniswap,Development,8.36,2023,44
+246,659,ChainLink,Development,8.34,2023,44
+247,621,Cardano,Development,8.02,2023,44
+248,1471,Mysterium,Development,8.02,2023,44
+249,3844,Trust Wallet Token,Development,8.01,2023,44
+250,1004,Holo,Development,7.96,2023,44
+251,983,Stellar,Development,7.96,2023,44
+252,1135,LBRY Credits,Development,7.92,2023,44
+253,769,Cosmos,Development,7.92,2023,44
+254,4372,Aave MANA,Development,7.86,2023,44
+255,4359,Aave MKR,Development,7.86,2023,44
+256,7920,Aave KNC v1,Development,7.86,2023,44
+257,4414,Aave WBTC,Development,7.86,2023,44
+258,7911,Aave MKR v1,Development,7.86,2023,44
+259,7910,Aave WBTC v1,Development,7.86,2023,44
+260,7918,Aave ZRX v1,Development,7.86,2023,44
+261,7890,Aave LINK v1,Development,7.86,2023,44
+262,5613,Aave,Development,7.86,2023,44
+263,4356,Aave SNX,Development,7.86,2023,44
+264,7928,Aave TUSD v1,Development,7.86,2023,44
+265,4352,Aave TUSD,Development,7.86,2023,44
+266,4349,Aave USDC,Development,7.86,2023,44
+267,7930,Aave SUSD v1,Development,7.86,2023,44
+268,7922,Aave MANA v1,Development,7.86,2023,44
+269,7932,Aave USDC v1,Development,7.86,2023,44
+270,978,Ethereum,Development,10.00,2023,45
+271,17115,Wrapped Bitcoin (Sollet),Development,9.16,2023,45
+272,376,Bitcoin,Development,9.15,2023,45
+273,5395,Uniswap,Development,8.35,2023,45
+274,1471,Mysterium,Development,8.10,2023,45
+275,659,ChainLink,Development,8.07,2023,45
+276,3844,Trust Wallet Token,Development,8.01,2023,45
+277,621,Cardano,Development,8.01,2023,45
+278,22486,Celestia,Development,8.00,2023,45
+279,22488,Memecoin,Development,8.00,2023,45
+280,769,Cosmos,Development,7.94,2023,45
+281,983,Stellar,Development,7.94,2023,45
+282,1135,LBRY Credits,Development,7.93,2023,45
+283,4359,Aave MKR,Development,7.86,2023,45
+284,4375,Aave ZRX,Development,7.86,2023,45
+285,345,Binance Coin,Development,7.86,2023,45
+286,4351,Aave KNC,Development,7.86,2023,45
+287,3963,Aave DAI,Development,7.86,2023,45
+288,5613,Aave,Development,7.86,2023,45
+289,7930,Aave SUSD v1,Development,7.86,2023,45
+290,7911,Aave MKR v1,Development,7.86,2023,45
+291,4364,Aave SUSD,Development,7.86,2023,45
+292,7918,Aave ZRX v1,Development,7.86,2023,45
+293,4356,Aave SNX,Development,7.86,2023,45
+294,7932,Aave USDC v1,Development,7.86,2023,45
+295,4365,Aave BUSD,Development,7.86,2023,45
+296,7916,Aave BUSD v1,Development,7.86,2023,45
+297,4414,Aave WBTC,Development,7.86,2023,45
+298,7920,Aave KNC v1,Development,7.86,2023,45
+299,7890,Aave LINK v1,Development,7.86,2023,45
+300,978,Ethereum,Development,10.03,2023,46
+301,17115,Wrapped Bitcoin (Sollet),Development,9.14,2023,46
+302,376,Bitcoin,Development,9.13,2023,46
+303,5395,Uniswap,Development,8.36,2023,46
+304,1128,IRISnet,Development,8.18,2023,46
+305,1471,Mysterium,Development,8.10,2023,46
+306,659,ChainLink,Development,8.06,2023,46
+307,621,Cardano,Development,8.03,2023,46
+308,3844,Trust Wallet Token,Development,8.02,2023,46
+309,22488,Memecoin,Development,8.00,2023,46
+310,22486,Celestia,Development,8.00,2023,46
+311,983,Stellar,Development,7.94,2023,46
+312,1135,LBRY Credits,Development,7.94,2023,46
+313,769,Cosmos,Development,7.93,2023,46
+314,1045,MaidSafeCoin,Development,7.90,2023,46
+315,4372,Aave MANA,Development,7.86,2023,46
+316,4365,Aave BUSD,Development,7.86,2023,46
+317,7910,Aave WBTC v1,Development,7.86,2023,46
+318,4364,Aave SUSD,Development,7.86,2023,46
+319,7934,Aave DAI v1,Development,7.86,2023,46
+320,7928,Aave TUSD v1,Development,7.86,2023,46
+321,3963,Aave DAI,Development,7.86,2023,46
+322,7916,Aave BUSD v1,Development,7.86,2023,46
+323,4349,Aave USDC,Development,7.86,2023,46
+324,4414,Aave WBTC,Development,7.86,2023,46
+325,4351,Aave KNC,Development,7.86,2023,46
+326,5613,Aave,Development,7.86,2023,46
+327,14449,Aave ETH v1,Development,7.86,2023,46
+328,7932,Aave USDC v1,Development,7.86,2023,46
+329,4375,Aave ZRX,Development,7.86,2023,46
+330,978,Ethereum,Development,10.02,2023,47
+331,17115,Wrapped Bitcoin (Sollet),Development,9.20,2023,47
+332,376,Bitcoin,Development,9.19,2023,47
+333,5395,Uniswap,Development,8.28,2023,47
+334,1128,IRISnet,Development,8.22,2023,47
+335,1471,Mysterium,Development,8.05,2023,47
+336,3844,Trust Wallet Token,Development,8.01,2023,47
+337,22712,Hex Orange Address,Development,8.00,2023,47
+338,23342,Myra Token,Development,8.00,2023,47
+339,22600,Pika Protocol,Development,8.00,2023,47
+340,22491,CorgiAI,Development,8.00,2023,47
+341,22628,Champignons of Arborethia,Development,8.00,2023,47
+342,22513,Tectum,Development,8.00,2023,47
+343,22599,MEME (Ordinals),Development,8.00,2023,47
+344,22586,Openfabric AI,Development,8.00,2023,47
+345,22602,f(x) Protocol,Development,8.00,2023,47
+346,22841,Flooring Protocol μMfers,Development,8.00,2023,47
+347,22950,go fu*k yourself.,Development,8.00,2023,47
+348,22589,SophiaVerse,Development,8.00,2023,47
+349,23161,Dor,Development,8.00,2023,47
+350,22486,Celestia,Development,8.00,2023,47
+351,1135,LBRY Credits,Development,7.96,2023,47
+352,983,Stellar,Development,7.94,2023,47
+353,621,Cardano,Development,7.93,2023,47
+354,3963,Aave DAI,Development,7.91,2023,47
+355,881,Dash,Development,7.91,2023,47
+356,7914,Aave SNX v1,Development,7.90,2023,47
+357,4351,Aave KNC,Development,7.90,2023,47
+358,7890,Aave LINK v1,Development,7.90,2023,47
+359,7932,Aave USDC v1,Development,7.90,2023,47
+360,978,Ethereum,Development,10.03,2023,48
+361,376,Bitcoin,Development,9.17,2023,48
+362,17115,Wrapped Bitcoin (Sollet),Development,9.17,2023,48
+363,5395,Uniswap,Development,8.33,2023,48
+364,3844,Trust Wallet Token,Development,8.02,2023,48
+365,659,ChainLink,Development,8.01,2023,48
+366,19433,D3D Social,Development,8.00,2023,48
+367,10735,GMX,Development,8.00,2023,48
+368,22465,ORDI,Development,8.00,2023,48
+369,10341,CropperFinance,Development,8.00,2023,48
+370,13224,Vita Inu,Development,8.00,2023,48
+371,22475,First Digital USD,Development,8.00,2023,48
+372,12194,Crypto Cavemen,Development,8.00,2023,48
+373,13261,Flux Token,Development,8.00,2023,48
+374,10614,Baanx,Development,8.00,2023,48
+375,18816,Kapital DAO,Development,8.00,2023,48
+376,14694,Imperium Empires,Development,8.00,2023,48
+377,21920,Ankr Staked AVAX,Development,8.00,2023,48
+378,15297,Galaxy Fight Club,Development,8.00,2023,48
+379,10939,Fufu,Development,8.00,2023,48
+380,20285,KOK,Development,8.00,2023,48
+381,17237,PLEARN,Development,8.00,2023,48
+382,13197,UniX,Development,8.00,2023,48
+383,22476,HarryPotterObamaSonic10Inu (ETH),Development,8.00,2023,48
+384,18133,Creo Engine,Development,8.00,2023,48
+385,15010,LORDS,Development,8.00,2023,48
+386,11432,Acet,Development,8.00,2023,48
+387,22486,Celestia,Development,8.00,2023,48
+388,21630,PodFast,Development,8.00,2023,48
+389,19947,ELLERIUM,Development,8.00,2023,48
+390,978,Ethereum,Development,10.03,2023,49
+391,376,Bitcoin,Development,9.10,2023,49
+392,17115,Wrapped Bitcoin (Sollet),Development,9.09,2023,49
+393,5395,Uniswap,Development,8.33,2023,49
+394,659,ChainLink,Development,8.06,2023,49
+395,3844,Trust Wallet Token,Development,8.01,2023,49
+396,18950,Dejitaru Shirudo,Development,8.00,2023,49
+397,11145,Waggle Network,Development,8.00,2023,49
+398,22475,First Digital USD,Development,8.00,2023,49
+399,14686,Handy,Development,8.00,2023,49
+400,16096,Catapult,Development,8.00,2023,49
+401,22897,Token IN,Development,8.00,2023,49
+402,15639,Chihuahua Chain,Development,8.00,2023,49
+403,22486,Celestia,Development,8.00,2023,49
+404,13981,Apricot,Development,8.00,2023,49
+405,22543,Toshi,Development,8.00,2023,49
+406,18874,Stader NearX,Development,8.00,2023,49
+407,11474,Cyclos,Development,8.00,2023,49
+408,22495,DOMO,Development,8.00,2023,49
+409,22681,SuiPad,Development,8.00,2023,49
+410,10709,The Doge NFT,Development,8.00,2023,49
+411,20508,Global Digital Cluster Co,Development,8.00,2023,49
+412,10555,Gamestarter,Development,8.00,2023,49
+413,22893,Mendi Finance,Development,8.00,2023,49
+414,11439,Grape Protocol,Development,8.00,2023,49
+415,22489,Beam,Development,8.00,2023,49
+416,22559,Turbo,Development,8.00,2023,49
+417,18835,Bonk,Development,8.00,2023,49
+418,22465,ORDI,Development,8.00,2023,49
+419,15256,Astroport,Development,8.00,2023,49
+420,978,Ethereum,Development,10.03,2023,50
+421,17115,Wrapped Bitcoin (Sollet),Development,9.08,2023,50
+422,376,Bitcoin,Development,9.07,2023,50
+423,5395,Uniswap,Development,8.36,2023,50
+424,659,ChainLink,Development,8.10,2023,50
+425,1471,Mysterium,Development,8.09,2023,50
+426,18126,Optimism,Development,8.03,2023,50
+427,22677,BANK (Ordinals),Development,8.00,2023,50
+428,22292,noiseGPT,Development,8.00,2023,50
+429,18832,Teritori,Development,8.00,2023,50
+430,22351,Helium Mobile,Development,8.00,2023,50
+431,22802,Aviator,Development,8.00,2023,50
+432,22715,WHEE,Development,8.00,2023,50
+433,18835,Bonk,Development,8.00,2023,50
+434,22569,Datamall Coin,Development,8.00,2023,50
+435,22866,Floyx,Development,8.00,2023,50
+436,22465,ORDI,Development,8.00,2023,50
+437,24643,Coq Inu,Development,8.00,2023,50
+438,18899,Catheon Gaming,Development,8.00,2023,50
+439,10321,WOO Network,Development,8.00,2023,50
+440,22489,Beam,Development,8.00,2023,50
+441,22750,Grumpy,Development,8.00,2023,50
+442,22475,First Digital USD,Development,8.00,2023,50
+443,22269,BOB Token,Development,8.00,2023,50
+444,16295,TOR,Development,8.00,2023,50
+445,22486,Celestia,Development,8.00,2023,50
+446,22701,NOOT (Ordinals),Development,8.00,2023,50
+447,3844,Trust Wallet Token,Development,8.00,2023,50
+448,22706,DRAC (Ordinals),Development,8.00,2023,50
+449,22587,Comsats,Development,8.00,2023,50
+450,621,Cardano,Development,10.03,2023,51
+451,978,Ethereum,Development,9.94,2023,51
+452,376,Bitcoin,Development,9.07,2023,51
+453,17115,Wrapped Bitcoin (Sollet),Development,9.06,2023,51
+454,5395,Uniswap,Development,8.34,2023,51
+455,659,ChainLink,Development,8.08,2023,51
+456,1471,Mysterium,Development,8.06,2023,51
+457,22489,Beam,Development,8.00,2023,51
+458,10717,dYdX,Development,8.00,2023,51
+459,16458,Paragen,Development,8.00,2023,51
+460,18084,MBD Financials,Development,8.00,2023,51
+461,16935,CatCoin Cash,Development,8.00,2023,51
+462,22491,CorgiAI,Development,8.00,2023,51
+463,22749,Zoomer,Development,8.00,2023,51
+464,22465,ORDI,Development,8.00,2023,51
+465,22475,First Digital USD,Development,8.00,2023,51
+466,22486,Celestia,Development,8.00,2023,51
+467,22874,OSPY,Development,8.00,2023,51
+468,22477,Sei,Development,8.00,2023,51
+469,12280,Solarbeam,Development,8.00,2023,51
+470,18835,Bonk,Development,8.00,2023,51
+471,3844,Trust Wallet Token,Development,8.00,2023,51
+472,17373,Meeds DAO,Development,8.00,2023,51
+473,12167,Dogebonk,Development,8.00,2023,51
+474,18811,Bitget Token,Development,8.00,2023,51
+475,10321,WOO Network,Development,8.00,2023,51
+476,10911,Marinade staked SOL,Development,8.00,2023,51
+477,22461,ADreward,Development,8.00,2023,51
+478,18853,Cronos ID,Development,8.00,2023,51
+479,20381,Solidly,Development,8.00,2023,51
+480,978,Ethereum,Development,10.03,2023,52
+481,17115,Wrapped Bitcoin (Sollet),Development,9.10,2023,52
+482,376,Bitcoin,Development,9.09,2023,52
+483,5395,Uniswap,Development,8.36,2023,52
+484,659,ChainLink,Development,8.12,2023,52
+485,907,Decentraland,Development,8.12,2023,52
+486,1471,Mysterium,Development,8.09,2023,52
+487,3844,Trust Wallet Token,Development,8.01,2023,52
+488,22477,Sei,Development,8.00,2023,52
+489,18811,Bitget Token,Development,8.00,2023,52
+490,22486,Celestia,Development,8.00,2023,52
+491,22475,First Digital USD,Development,8.00,2023,52
+492,21068,Cheelee,Development,8.00,2023,52
+493,18907,Revenant,Development,8.00,2023,52
+494,18496,Aerarium Fi,Development,8.00,2023,52
+495,10717,dYdX,Development,8.00,2023,52
+496,17881,AssaPlay,Development,8.00,2023,52
+497,21988,FEG,Development,8.00,2023,52
+498,10911,Marinade staked SOL,Development,8.00,2023,52
+499,16295,TOR,Development,8.00,2023,52
+500,10703,eCash,Development,8.00,2023,52
+501,18795,WhiteBIT Token,Development,8.00,2023,52
+502,18838,Frax Ether,Development,8.00,2023,52
+503,22740,Kryptonite,Development,8.00,2023,52
+504,18317,MESSIER,Development,8.00,2023,52
+505,15294,Netswap,Development,8.00,2023,52
+506,18864,MANGOMAN INTELLIGENT,Development,8.00,2023,52
+507,22465,ORDI,Development,8.00,2023,52
+508,16935,CatCoin Cash,Development,8.00,2023,52
+509,16940,Taki,Development,8.00,2023,52

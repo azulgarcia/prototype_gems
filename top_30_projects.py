@@ -2,14 +2,16 @@ from cb_database_connection import open_connection, close_connection
 import pandas as pd
 
 def fetch_data (connection, year, week):
-    query_end_price = "SELECT id_project, name, top, score, year, week FROM cryptobirds.projects_scores as a left join cryptobirds.projects as b ON a.id_project = b.id where a.year = %s and a.week = %s and a.top = 'General' order by a.score desc limit 30;"
+    query_end_price = "SELECT id_project, name, top, score, year, week " \
+                      "FROM cryptobirds.projects_scores as a left join cryptobirds.projects as b " \
+                      "ON a.id_project = b.id where a.year = %s and a.week = %s and a.top = 'Development' order by a.score desc limit 30;"
 
     cursor = connection.cursor(dictionary=True)
     cursor.execute(query_end_price, (year, week))
 
     return pd.DataFrame(cursor.fetchall())
 
-
+'''
 all_projects_df = pd.read_csv("all_projects_top_30.csv")
 
 project_week_counts = all_projects_df.groupby('name')['week'].nunique().reset_index()
@@ -20,8 +22,8 @@ project_week_counts = project_week_counts.rename(columns={'week': 'weeks_count'}
 
 project_week_counts_sorted = project_week_counts.sort_values(by='weeks_count', ascending=False)
 print(project_week_counts_sorted)
-
 '''
+
 connection = open_connection()
 
 all_prorjects_df = pd.DataFrame()
@@ -32,11 +34,10 @@ for week in range(1, 4):
     all_prorjects_df = pd.concat([all_prorjects_df, projects], ignore_index=True)
 
 ### projects year 2023
-for week in range(24, 53):
+for week in range(39, 53):
     projects = fetch_data(connection, 2023, week)
     all_prorjects_df = pd.concat([all_prorjects_df, projects], ignore_index=True)
 
 print(all_prorjects_df)
-all_prorjects_df.to_csv("all_projects_top_30.csv")
+all_prorjects_df.to_csv("all_projects_top_30_development.csv")
 connection.close()
-'''
