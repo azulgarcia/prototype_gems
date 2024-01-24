@@ -4,7 +4,7 @@ import pandas as pd
 connection = open_connection()
 cursor = connection.cursor(dictionary=True)
 
-all_projects_df = pd.read_csv("all_projects_top_30_development.csv")
+all_projects_df = pd.read_csv("all_projects_top_30_4Chan.csv")
 
 id_project_list = list(set(all_projects_df['id_project'].to_list()))
 
@@ -31,7 +31,7 @@ for id in id_project_list:
 
         project_name = all_projects_df.loc[all_projects_df['id_project'] == id, 'name'].iloc[0]
 
-        data.append({'category': 'Development',
+        data.append({'category': '4Chan',
                  'date': price_last_week[0]['created_at'],
                  'year': year,
                  'week': week,
@@ -41,7 +41,7 @@ for id in id_project_list:
                  'end_price': end_price,
                  'performance': performance
                  })
-        print('Development', price_last_week[0]['created_at'], year, week, id, project_name,
+        print('4Chan', price_last_week[0]['created_at'], year, week, id, project_name,
               init_price, end_price, performance)
     except:
         print(f'{year}, {week}, Project: {project_name},: has prices problems')
@@ -67,7 +67,7 @@ for id in id_project_list:
 
             project_name = all_projects_df.loc[all_projects_df['id_project'] == id, 'name'].iloc[0]
 
-            data.append({'category': 'Development',
+            data.append({'category': '4Chan',
                      'date': price_last_week[0]['created_at'],
                      'year': year,
                      'week': week,
@@ -78,7 +78,7 @@ for id in id_project_list:
                      'performance': performance
                      })
 
-            print('Development', price_last_week[0]['created_at'], year, week, id, project_name,
+            print('4Chan', price_last_week[0]['created_at'], year, week, id, project_name,
                   init_price, end_price, performance)
         except:
             print(f'{year}, {week}, Project: {project_name},: has prices problems')
@@ -104,7 +104,7 @@ for id in id_project_list:
 
             project_name = all_projects_df.loc[all_projects_df['id_project'] == id, 'name'].iloc[0]
 
-            data.append({'category': 'Development',
+            data.append({'category': '4Chan',
                      'date': price_last_week[0]['created_at'],
                      'year': year,
                      'week': week,
@@ -115,9 +115,9 @@ for id in id_project_list:
                      'performance': performance
                      })
 
-            print('Development', price_last_week[0]['created_at'], year, week, id, project_name,
+            print('4Chan', price_last_week[0]['created_at'], year, week, id, project_name,
                   init_price, end_price, performance)
         except:
             print(f'{year}, {week}, Project: {project_name},: has prices problems')
 
-pd.DataFrame(data).to_csv('top_30_performances_39_3_development.csv', sep=',', index=False)
+pd.DataFrame(data).to_csv('top_30_performances_39_3_4Chan.csv', sep=',', index=False)

@@ -4,7 +4,7 @@ import pandas as pd
 def fetch_data (connection, year, week):
     query_end_price = "SELECT id_project, name, top, score, year, week " \
                       "FROM cryptobirds.projects_scores as a left join cryptobirds.projects as b " \
-                      "ON a.id_project = b.id where a.year = %s and a.week = %s and a.top = 'Development' order by a.score desc limit 30;"
+                      "ON a.id_project = b.id where a.year = %s and a.week = %s and a.top = '4Chan' order by a.score desc limit 30;"
 
     cursor = connection.cursor(dictionary=True)
     cursor.execute(query_end_price, (year, week))
@@ -39,5 +39,5 @@ for week in range(39, 53):
     all_prorjects_df = pd.concat([all_prorjects_df, projects], ignore_index=True)
 
 print(all_prorjects_df)
-all_prorjects_df.to_csv("all_projects_top_30_development.csv")
+all_prorjects_df.to_csv("all_projects_top_30_4Chan.csv")
 connection.close()

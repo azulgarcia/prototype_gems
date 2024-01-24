@@ -3,9 +3,9 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 
-df_top = pd.read_csv("all_projects_top_39_3.csv")
+df_top = pd.read_csv("all_projects_top_30_4Chan.csv")
 
-df = pd.read_csv('top_30_performances_39_3.csv')
+df = pd.read_csv('top_30_performances_39_3_4Chan.csv')
 df['date'] = pd.to_datetime(df['date'])
 
 ###############################################################################################################
@@ -17,7 +17,7 @@ df['date'] = pd.to_datetime(df['date']).dt.date
 
 print(df.columns)
 
-st.title('Top 30 General')
+st.title('Top 30 4Chan')
 st.write('Period: 09/24/2023 to 01/20/2024')
 st.write('Number of weeks analyzed: 17')
 ###############################################################################################################
@@ -55,7 +55,7 @@ fecha_fin = st.date_input("Select end date",
 
 df_filtrado = df[(df['date'] >= fecha_inicio) & (df['date'] <= fecha_fin)]
 
-#df_filtrado = df_filtrado.groupby(['project_name', 'date'])['performance'].mean().reset_index()
+df_filtrado = df_filtrado.groupby(['project_name', 'date'])['performance'].mean().reset_index()
 
 selected_projects = top_projects['name'].tolist()
 
@@ -68,7 +68,7 @@ roi_total = []
 
 accumulated_roi = init_investment
 for index, row in grouped_df.iterrows():
-    accumulated_roi = (1 + row['performance']) * accumulated_roi
+    accumulated_roi *= 1 + row['performance']
     roi_total.append(accumulated_roi)
 
 grouped_df['return_total'] = roi_total
