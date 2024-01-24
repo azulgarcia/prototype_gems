@@ -4,12 +4,12 @@ import pandas as pd
 connection = open_connection()
 cursor = connection.cursor(dictionary=True)
 
-all_projects_df = pd.read_csv("all_projects_top_30_4Chan.csv")
+all_projects_df = pd.read_csv("all_projects_top_30_Development.csv")
 
 id_project_list = list(set(all_projects_df['id_project'].to_list()))
 
 print(len(id_project_list))
-category = '4Chan'
+category = 'Development'
 data = []
 
 ## 2024
@@ -122,4 +122,4 @@ for id in id_project_list:
         except:
             print(f'{year}, {week}, Project: {project_name},: has prices problems')
 
-pd.DataFrame(data).to_csv('top_30_performances_39_3_4Chan.csv', sep=',', index=False)
+pd.DataFrame(data).to_csv('top_30_performances_39_3_Development.csv', sep=',', index=False)

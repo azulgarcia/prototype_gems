@@ -3,9 +3,9 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 
-df_top = pd.read_csv("all_projects_top_30_development.csv")
+df_top = pd.read_csv("all_projects_top_30_Development.csv")
 
-df = pd.read_csv('top_30_performances_39_3_development.csv')
+df = pd.read_csv('top_30_performances_39_3_Development.csv')
 df['date'] = pd.to_datetime(df['date'])
 
 ###############################################################################################################
@@ -87,23 +87,6 @@ fig_roi.add_trace(
 
 st.markdown("##### Return on investment of 1000 dollars")
 st.plotly_chart(fig_roi)
-
-#init_investment = 1000
-#roi_total = []
-
-#for name in df_filtrado['project_name'].unique():
- #   category_df = df_filtrado[df_filtrado['project_name'] == name]
-  #  accumulated_roi = init_investment
-   # for index, row in category_df.iterrows():
-    #    accumulated_roi *= 1 + row['performance']
-     #   roi_total.append(accumulated_roi)
-
-#df_filtrado['return_total'] = roi_total
-
-
-#fig_roi = px.line(df_filtrado, x='date', y='return_total', color='project_name', markers=True,
- #                 labels={'performance': 'Mean Performance', 'date': 'Date'},
-  #                height=800, width=1000)
 
 
 grouped_df_performance = df_filtrado.groupby('date')['performance'].mean().reset_index()

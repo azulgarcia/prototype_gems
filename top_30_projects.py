@@ -29,7 +29,7 @@ connection = open_connection()
 
 all_prorjects_df = pd.DataFrame()
 
-category = '4Chan'
+category = 'Development'
 limit_top = 30
 
 ### projects year 2024
@@ -43,5 +43,5 @@ for week in range(39, 53):
     all_prorjects_df = pd.concat([all_prorjects_df, projects], ignore_index=True)
 
 print(all_prorjects_df)
-all_prorjects_df.to_csv("all_projects_top_30_4Chan.csv")
+all_prorjects_df.to_csv("all_projects_top_30_Development.csv")
 connection.close()
