@@ -1,13 +1,14 @@
 from cb_database_connection import open_connection, close_connection
 import pandas as pd
 
-def fetch_data (connection, year, week):
+def fetch_data (connection, year, week, category, limit_top):
     query_end_price = "SELECT id_project, name, top, score, year, week " \
                       "FROM cryptobirds.projects_scores as a left join cryptobirds.projects as b " \
-                      "ON a.id_project = b.id where a.year = %s and a.week = %s and a.top = '4Chan' order by a.score desc limit 30;"
+                      "ON a.id_project = b.id where a.year = %s and a.week = %s and a.top = %s " \
+                      "order by a.score desc limit %s;"
 
     cursor = connection.cursor(dictionary=True)
-    cursor.execute(query_end_price, (year, week))
+    cursor.execute(query_end_price, (year, week, category, limit_top))
 
     return pd.DataFrame(cursor.fetchall())
 
@@ -28,14 +29,17 @@ connection = open_connection()
 
 all_prorjects_df = pd.DataFrame()
 
+category = '4Chan'
+limit_top = 30
+
 ### projects year 2024
 for week in range(1, 4):
-    projects = fetch_data(connection, 2024, week)
+    projects = fetch_data(connection, 2024, week, category, limit_top)
     all_prorjects_df = pd.concat([all_prorjects_df, projects], ignore_index=True)
 
 ### projects year 2023
 for week in range(39, 53):
-    projects = fetch_data(connection, 2023, week)
+    projects = fetch_data(connection, 2023, week, category, limit_top)
     all_prorjects_df = pd.concat([all_prorjects_df, projects], ignore_index=True)
 
 print(all_prorjects_df)

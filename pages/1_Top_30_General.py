@@ -11,7 +11,6 @@ df['date'] = pd.to_datetime(df['date'])
 ###############################################################################################################
 # Performance for date
 ###############################################################################################################
-#grouped_df = df.groupby(['category', 'date']).agg({'performance': 'sum'}).reset_index()
 
 df['date'] = pd.to_datetime(df['date']).dt.date
 
@@ -61,14 +60,17 @@ selected_projects = top_projects['name'].tolist()
 
 df_filtrado = df_filtrado[df_filtrado['project_name'].isin(selected_projects)]
 
+st.table(df_filtrado.sort_values(by='date', ascending=True))
+
 grouped_df = df_filtrado.groupby('date')['performance'].mean().reset_index()
+
 
 init_investment = 1000
 roi_total = []
 
 accumulated_roi = init_investment
 for index, row in grouped_df.iterrows():
-    accumulated_roi = (1 + row['performance']) * accumulated_roi
+    accumulated_roi = accumulated_roi * (1 + row['performance'])
     roi_total.append(accumulated_roi)
 
 grouped_df['return_total'] = roi_total
@@ -87,24 +89,6 @@ fig_roi.add_trace(
 
 st.markdown("##### Return on investment of 1000 dollars")
 st.plotly_chart(fig_roi)
-
-#init_investment = 1000
-#roi_total = []
-
-#for name in df_filtrado['project_name'].unique():
- #   category_df = df_filtrado[df_filtrado['project_name'] == name]
-  #  accumulated_roi = init_investment
-   # for index, row in category_df.iterrows():
-    #    accumulated_roi *= 1 + row['performance']
-     #   roi_total.append(accumulated_roi)
-
-#df_filtrado['return_total'] = roi_total
-
-
-#fig_roi = px.line(df_filtrado, x='date', y='return_total', color='project_name', markers=True,
- #                 labels={'performance': 'Mean Performance', 'date': 'Date'},
-  #                height=800, width=1000)
-
 
 grouped_df_performance = df_filtrado.groupby('date')['performance'].mean().reset_index()
 fig_performance = px.line(grouped_df_performance, x='date', y='performance', markers=True,
