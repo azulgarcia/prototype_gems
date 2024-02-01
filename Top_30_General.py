@@ -60,7 +60,7 @@ selected_projects = top_projects['name'].tolist()
 
 df_filtrado = df_filtrado[df_filtrado['project_name'].isin(selected_projects)]
 
-st.table(df_filtrado.sort_values(by='date', ascending=True))
+#st.table(df_filtrado.sort_values(by='date', ascending=True))
 
 grouped_df = df_filtrado.groupby('date')['performance'].mean().reset_index()
 
