@@ -1,0 +1,82 @@
+import pandas as pd
+import streamlit as st
+import plotly.express as px
+import plotly.graph_objects as go
+
+df = pd.read_csv("all_projects_platform.csv")
+
+df['date'] = pd.to_datetime(df['date'])
+
+df['date'] = pd.to_datetime(df['date']).dt.date
+
+st.markdown('### Performances projects')
+
+category_filter = st.selectbox('Select category:', df['category'].unique())
+platform_filter = st.selectbox('Select platform:', df['platform'].unique())
+
+
+rango_fechas = pd.date_range(df['date'].min(), df['date'].max())
+fecha_inicio_default = max(rango_fechas.min().date(), df['date'].min())
+fecha_fin_default = min(rango_fechas.max().date(), df['date'].max())
+fecha_inicio = st.date_input("Select start date",
+                             min_value=rango_fechas.min().date(),
+                             max_value=rango_fechas.max().date(),
+                             value=fecha_inicio_default)
+fecha_fin = st.date_input("Select end date",
+                          min_value=rango_fechas.min().date(),
+                          max_value=rango_fechas.max().date(),
+                          value=fecha_fin_default)
+
+df_filtrado = df[(df['date'] >= fecha_inicio) & (df['date'] <= fecha_fin)
+                 & (df['platform'] == platform_filter) & (df['category'] == category_filter)]
+
+
+grouped_df = df_filtrado.groupby('date')['performance'].mean().reset_index()
+
+init_investment = 1000
+roi_total = []
+
+accumulated_roi = init_investment
+for index, row in grouped_df.iterrows():
+    accumulated_roi = accumulated_roi * (1 + row['performance'])
+    roi_total.append(accumulated_roi)
+
+grouped_df['return_total'] = roi_total
+
+fig_roi = px.line(grouped_df, x='date', y='return_total', markers=True, labels={'performance': 'Mean Performance', 'date': 'Date'})
+fig_roi.update_traces(line_color='orange')
+fig_roi.add_trace(
+    go.Scatter(
+        x=[df_filtrado['date'].min(), df_filtrado['date'].max()],
+        y=[1000, 1000],
+        mode='lines',
+        name='Initial Investment',
+        line=dict(color="black", width=2, dash="dash"),
+    )
+)
+
+st.markdown("##### Return on investment of 1000 dollars")
+st.plotly_chart(fig_roi)
+
+grouped_df_performance = df_filtrado.groupby('date')['performance'].mean().reset_index()
+fig_performance = px.line(grouped_df_performance, x='date', y='performance', markers=True,
+                          labels={'performance': 'Mean Performance', 'date': 'Date'})
+fig_performance.update_traces(line_color='green')
+
+st.markdown("##### Mean performance")
+st.plotly_chart(fig_performance)
+
+
+default_year = 2024
+default_week = 6
+
+### table
+year_filter = st.selectbox('Select year:', df['year'].unique(), index=df['year'].unique().tolist().index(default_year))
+week_filter = st.number_input('Select week:', min_value=int(df['week'].min()), max_value=int(df['week'].max()),value=default_week)
+
+filter_df = df[(df['platform'] == platform_filter) & (df['category'] == category_filter)
+               & (df['year'] == year_filter) & (df['week'] == week_filter)]
+
+columns_to_display = ['date', 'project_name', 'start_price', 'end_price', 'performance']
+
+st.write(filter_df[columns_to_display])
