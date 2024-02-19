@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 
-df = pd.read_csv("polygon_coingecko_2_6.csv")
+df = pd.read_csv("modification_polygon_coningecko.csv")
 
 df['date'] = pd.to_datetime(df['date'])
 
@@ -25,7 +25,7 @@ fecha_fin = st.date_input("Select end date",
                           max_value=rango_fechas.max().date(),
                           value=fecha_fin_default)
 
-num_projects = st.slider('Seleccione la cantidad de proyectos a considerar por fecha:',
+num_projects = st.slider('Select the number of projects to consider by date:',
                                 min_value=1, max_value=100, value=10)
 
 df_filtrado = df[(df['date'] >= fecha_inicio) & (df['date'] <= fecha_fin)]
@@ -80,9 +80,21 @@ filter_df = df[((df['year'] == year_filter) & (df['week'] == week_filter))]
 
 filter_df_sort = filter_df.sort_values(by='score', ascending=False)
 
-filter_df_final = filter_df_sort.head(num_projects)
+filter_df_final = filter_df_sort.head(num_projects).reset_index()
 
 columns_to_display = ['date', 'project_name', 'start_price', 'end_price', 'performance']
 
 st.write(filter_df_final[columns_to_display])
 
+st.markdown("##### Projects current week")
+#actual week
+df_actual_week = pd.read_csv('polygon_coingecko_general_7.csv')
+df_actual_week['date'] = pd.to_datetime(df['date']).dt.date
+df_actual_week_sort = df_actual_week.sort_values(by='score', ascending=False)
+num_projects_current = st.slider('Select the number of projects to view:',
+                                min_value=1, max_value=100, value=10)
+df_actual_week_sort_filter = df_actual_week_sort.head(num_projects_current).reset_index()
+
+columns_to_display_actual_week = ['date', 'project_name', 'start_price']
+
+st.write(df_actual_week_sort_filter[columns_to_display_actual_week])
