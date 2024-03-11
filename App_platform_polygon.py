@@ -88,7 +88,7 @@ st.write(filter_df_final[columns_to_display])
 
 st.markdown("##### Projects current week")
 #actual week
-df_actual_week = pd.read_csv('polygon_coingecko_general_7.csv')
+df_actual_week = pd.read_csv('polygon_coingecko_current.csv')
 df_actual_week['date'] = pd.to_datetime(df['date']).dt.date
 df_actual_week_sort = df_actual_week.sort_values(by='score', ascending=False)
 num_projects_current = st.slider('Select the number of projects to view:',
