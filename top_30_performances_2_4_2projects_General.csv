@@ -1,0 +1,5 @@
+category,date,year,week,id_project,project_name,start_price,end_price,performance
+General,2024-01-13,2024,2,15335,Moonbeam,0.396822,0.415664,0.047482246448029515
+General,2024-01-20,2024,3,15335,Moonbeam,0.415664,0.380804,-0.08386581469648563
+General,2024-01-13,2024,2,991,Ethereum Classic,19.9,28.86,0.4502512562814071
+General,2024-01-20,2024,3,991,Ethereum Classic,28.86,24.52,-0.15038115038115038

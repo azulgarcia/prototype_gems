@@ -1,0 +1,201 @@
+,id_project,name,score,position,platform,year,week
+0,659,ChainLink,69.48,8.0,ethereum,2023,39
+1,5395,Uniswap,69.27,12.0,ethereum,2023,39
+2,1036,Polygon,68.67,15.0,ethereum,2023,39
+3,5613,Aave,67.56,18.0,ethereum,2023,39
+4,5083,Shiba Inu,67.51,20.0,ethereum,2023,39
+5,6569,The Graph,67.36,22.0,ethereum,2023,39
+6,988,OKB,66.64,26.0,ethereum,2023,39
+7,987,LEO Token,66.59,27.0,ethereum,2023,39
+8,10418,The Open Network,65.43,29.0,ethereum,2023,39
+9,996,Maker,65.20,30.0,ethereum,2023,39
+10,659,ChainLink,70.05,7.0,ethereum,2023,40
+11,5395,Uniswap,69.31,10.0,ethereum,2023,40
+12,1036,Polygon,68.49,14.0,ethereum,2023,40
+13,5613,Aave,67.91,19.0,ethereum,2023,40
+14,6569,The Graph,67.34,22.0,ethereum,2023,40
+15,996,Maker,65.62,25.0,ethereum,2023,40
+16,6009,Axie Infinity,65.28,27.0,ethereum,2023,40
+17,6723,Lido DAO,65.23,29.0,ethereum,2023,40
+18,11726,2crazyNFT,65.00,32.0,ethereum,2023,40
+19,10418,The Open Network,64.86,34.0,ethereum,2023,40
+20,659,ChainLink,69.29,10.0,ethereum,2023,41
+21,1036,Polygon,69.04,13.0,ethereum,2023,41
+22,5395,Uniswap,68.00,19.0,ethereum,2023,41
+23,5613,Aave,67.67,21.0,ethereum,2023,41
+24,6569,The Graph,67.15,23.0,ethereum,2023,41
+25,10418,The Open Network,67.06,24.0,ethereum,2023,41
+26,988,OKB,66.58,26.0,ethereum,2023,41
+27,6009,Axie Infinity,66.00,27.0,ethereum,2023,41
+28,809,Crypto.com Coin,65.13,32.0,ethereum,2023,41
+29,1062,Fantom,64.83,35.0,ethereum,2023,41
+30,659,ChainLink,69.22,10.0,ethereum,2023,42
+31,1036,Polygon,68.44,14.0,ethereum,2023,42
+32,5395,Uniswap,68.41,15.0,ethereum,2023,42
+33,5613,Aave,67.40,21.0,ethereum,2023,42
+34,6569,The Graph,66.60,23.0,ethereum,2023,42
+35,6009,Axie Infinity,65.38,25.0,ethereum,2023,42
+36,996,Maker,65.22,26.0,ethereum,2023,42
+37,22399,Pepa ERC,65.00,16.0,ethereum,2023,42
+38,987,LEO Token,64.99,29.0,ethereum,2023,42
+39,10418,The Open Network,64.93,30.0,ethereum,2023,42
+40,659,ChainLink,69.89,7.0,ethereum,2023,43
+41,1036,Polygon,68.82,14.0,ethereum,2023,43
+42,5395,Uniswap,68.71,15.0,ethereum,2023,43
+43,5613,Aave,68.09,21.0,ethereum,2023,43
+44,10418,The Open Network,67.47,23.0,ethereum,2023,43
+45,6569,The Graph,67.05,24.0,ethereum,2023,43
+46,6009,Axie Infinity,66.15,26.0,ethereum,2023,43
+47,996,Maker,65.27,29.0,ethereum,2023,43
+48,987,LEO Token,64.76,33.0,ethereum,2023,43
+49,4696,Curve DAO Token,64.23,34.0,ethereum,2023,43
+50,659,ChainLink,70.29,4.0,ethereum,2023,44
+51,1036,Polygon,68.75,10.0,ethereum,2023,44
+52,6569,The Graph,68.75,11.0,ethereum,2023,44
+53,996,Maker,65.18,17.0,ethereum,2023,44
+54,5613,Aave,64.49,23.0,ethereum,2023,44
+55,1090,IoTeX,63.89,27.0,ethereum,2023,44
+56,1210,Matrix AI Network,63.23,30.0,ethereum,2023,44
+57,1014,Enjin Coin,63.04,31.0,ethereum,2023,44
+58,3361,Origin Protocol,62.71,34.0,ethereum,2023,44
+59,6009,Axie Infinity,62.67,35.0,ethereum,2023,44
+60,659,ChainLink,70.23,4.0,ethereum,2023,45
+61,1036,Polygon,69.14,11.0,ethereum,2023,45
+62,6569,The Graph,68.90,12.0,ethereum,2023,45
+63,996,Maker,66.84,14.0,ethereum,2023,45
+64,5613,Aave,64.58,22.0,ethereum,2023,45
+65,1014,Enjin Coin,64.41,27.0,ethereum,2023,45
+66,1090,IoTeX,63.71,32.0,ethereum,2023,45
+67,1094,Fetch.ai,63.60,35.0,ethereum,2023,45
+68,6009,Axie Infinity,62.96,39.0,ethereum,2023,45
+69,3361,Origin Protocol,62.89,40.0,ethereum,2023,45
+70,659,ChainLink,70.69,5.0,ethereum,2023,46
+71,1036,Polygon,69.11,11.0,ethereum,2023,46
+72,6569,The Graph,68.97,12.0,ethereum,2023,46
+73,996,Maker,67.19,13.0,ethereum,2023,46
+74,5613,Aave,64.77,25.0,ethereum,2023,46
+75,1094,Fetch.ai,64.47,28.0,ethereum,2023,46
+76,1090,IoTeX,64.17,31.0,ethereum,2023,46
+77,1011,Theta Network,63.89,33.0,ethereum,2023,46
+78,6009,Axie Infinity,63.78,34.0,ethereum,2023,46
+79,7333,Quickswap,62.84,38.0,ethereum,2023,46
+80,659,ChainLink,69.10,9.0,ethereum,2023,47
+81,1036,Polygon,68.80,10.0,ethereum,2023,47
+82,6569,The Graph,68.29,11.0,ethereum,2023,47
+83,996,Maker,65.63,15.0,ethereum,2023,47
+84,1014,Enjin Coin,63.54,26.0,ethereum,2023,47
+85,5613,Aave,63.47,27.0,ethereum,2023,47
+86,7333,Quickswap,62.98,30.0,ethereum,2023,47
+87,1094,Fetch.ai,62.76,33.0,ethereum,2023,47
+88,1210,Matrix AI Network,62.70,34.0,ethereum,2023,47
+89,6009,Axie Infinity,62.68,35.0,ethereum,2023,47
+90,659,ChainLink,69.77,4.0,ethereum,2023,48
+91,6569,The Graph,68.85,8.0,ethereum,2023,48
+92,1036,Polygon,68.25,9.0,ethereum,2023,48
+93,996,Maker,65.61,14.0,ethereum,2023,48
+94,5613,Aave,64.58,18.0,ethereum,2023,48
+95,6009,Axie Infinity,63.36,24.0,ethereum,2023,48
+96,1210,Matrix AI Network,63.32,25.0,ethereum,2023,48
+97,1094,Fetch.ai,62.92,28.0,ethereum,2023,48
+98,5540,Origin Dollar,62.54,,ethereum,2023,48
+99,7333,Quickswap,62.40,30.0,ethereum,2023,48
+100,659,ChainLink,57.99,4.0,ethereum,2023,49
+101,1036,Polygon,57.46,6.0,ethereum,2023,49
+102,6569,The Graph,57.15,9.0,ethereum,2023,49
+103,5613,Aave,53.01,20.0,ethereum,2023,49
+104,1094,Fetch.ai,51.72,28.0,ethereum,2023,49
+105,7333,Quickswap,51.49,30.0,ethereum,2023,49
+106,1210,Matrix AI Network,51.39,31.0,ethereum,2023,49
+107,5540,Origin Dollar,51.23,,ethereum,2023,49
+108,6009,Axie Infinity,50.31,36.0,ethereum,2023,49
+109,996,Maker,50.22,38.0,ethereum,2023,49
+110,659,ChainLink,57.92,6.0,ethereum,2023,50
+111,6569,The Graph,57.32,8.0,ethereum,2023,50
+112,1036,Polygon,57.30,9.0,ethereum,2023,50
+113,22511,Polygon Ecosystem Token,55.79,15.0,ethereum,2023,50
+114,996,Maker,53.79,21.0,ethereum,2023,50
+115,6009,Axie Infinity,52.94,27.0,ethereum,2023,50
+116,5613,Aave,52.53,30.0,ethereum,2023,50
+117,7333,Quickswap,51.53,36.0,ethereum,2023,50
+118,5540,Origin Dollar,51.23,,ethereum,2023,50
+119,1014,Enjin Coin,50.91,38.0,ethereum,2023,50
+120,1036,Polygon,69.53,4.0,ethereum,2023,51
+121,659,ChainLink,68.64,10.0,ethereum,2023,51
+122,6569,The Graph,68.06,12.0,ethereum,2023,51
+123,996,Maker,64.54,19.0,ethereum,2023,51
+124,1014,Enjin Coin,63.66,25.0,ethereum,2023,51
+125,5613,Aave,63.59,26.0,ethereum,2023,51
+126,1094,Fetch.ai,63.29,27.0,ethereum,2023,51
+127,6009,Axie Infinity,62.98,30.0,ethereum,2023,51
+128,5540,Origin Dollar,62.23,,ethereum,2023,51
+129,7333,Quickswap,61.95,36.0,ethereum,2023,51
+130,659,ChainLink,55.86,9.0,ethereum,2023,52
+131,1036,Polygon,55.52,12.0,ethereum,2023,52
+132,6569,The Graph,55.14,14.0,ethereum,2023,52
+133,5613,Aave,54.36,20.0,ethereum,2023,52
+134,6009,Axie Infinity,53.59,24.0,ethereum,2023,52
+135,1090,IoTeX,51.73,30.0,ethereum,2023,52
+136,996,Maker,51.55,31.0,ethereum,2023,52
+137,4696,Curve DAO Token,51.34,32.0,ethereum,2023,52
+138,1011,Theta Network,51.30,33.0,ethereum,2023,52
+139,1005,Synthetix Network Token,51.06,35.0,ethereum,2023,52
+140,1036,Polygon,64.49,7.0,ethereum,2024,1
+141,659,ChainLink,64.12,9.0,ethereum,2024,1
+142,6009,Axie Infinity,63.38,14.0,ethereum,2024,1
+143,5613,Aave,63.15,15.0,ethereum,2024,1
+144,6569,The Graph,62.88,19.0,ethereum,2024,1
+145,907,Decentraland,59.58,27.0,ethereum,2024,1
+146,4696,Curve DAO Token,59.55,28.0,ethereum,2024,1
+147,996,Maker,59.41,30.0,ethereum,2024,1
+148,6723,Lido DAO,59.12,32.0,ethereum,2024,1
+149,1011,Theta Network,59.12,31.0,ethereum,2024,1
+150,659,ChainLink,71.00,7.0,ethereum,2024,2
+151,1036,Polygon,70.67,8.0,ethereum,2024,2
+152,6569,The Graph,70.22,9.0,ethereum,2024,2
+153,5613,Aave,66.96,20.0,ethereum,2024,2
+154,6009,Axie Infinity,66.89,21.0,ethereum,2024,2
+155,996,Maker,66.85,22.0,ethereum,2024,2
+156,1014,Enjin Coin,64.59,29.0,ethereum,2024,2
+157,1094,Fetch.ai,63.87,33.0,ethereum,2024,2
+158,5540,Origin Dollar,63.66,,ethereum,2024,2
+159,907,Decentraland,63.30,36.0,ethereum,2024,2
+160,1036,Polygon,70.83,11.0,ethereum,2024,3
+161,6569,The Graph,70.54,14.0,ethereum,2024,3
+162,659,ChainLink,67.09,19.0,ethereum,2024,3
+163,907,Decentraland,66.92,21.0,ethereum,2024,3
+164,1014,Enjin Coin,66.76,22.0,ethereum,2024,3
+165,1005,Synthetix Network Token,66.43,23.0,ethereum,2024,3
+166,1011,Theta Network,66.17,25.0,ethereum,2024,3
+167,4696,Curve DAO Token,65.27,30.0,ethereum,2024,3
+168,7333,Quickswap,64.10,41.0,ethereum,2024,3
+169,18642,Origin Dollar Governance,63.92,42.0,ethereum,2024,3
+170,1036,Polygon,70.13,10.0,ethereum,2024,4
+171,5613,Aave,69.69,12.0,ethereum,2024,4
+172,6569,The Graph,68.28,16.0,ethereum,2024,4
+173,907,Decentraland,66.75,19.0,ethereum,2024,4
+174,996,Maker,66.27,20.0,ethereum,2024,4
+175,1011,Theta Network,66.17,21.0,ethereum,2024,4
+176,1014,Enjin Coin,65.70,23.0,ethereum,2024,4
+177,659,ChainLink,64.35,27.0,ethereum,2024,4
+178,4708,SAND,64.30,28.0,ethereum,2024,4
+179,4696,Curve DAO Token,63.96,30.0,ethereum,2024,4
+180,1036,Polygon,70.75,18.0,ethereum,2024,5
+181,6569,The Graph,70.35,28.0,ethereum,2024,5
+182,5613,Aave,70.07,30.0,ethereum,2024,5
+183,996,Maker,66.70,46.0,ethereum,2024,5
+184,907,Decentraland,66.39,50.0,ethereum,2024,5
+185,1011,Theta Network,66.25,52.0,ethereum,2024,5
+186,1014,Enjin Coin,66.23,54.0,ethereum,2024,5
+187,1005,Synthetix Network Token,66.10,56.0,ethereum,2024,5
+188,659,ChainLink,65.78,60.0,ethereum,2024,5
+189,7333,Quickswap,64.01,78.0,ethereum,2024,5
+190,907,Decentraland,71.66,9.0,ethereum,2024,6
+191,1036,Polygon,71.35,12.0,ethereum,2024,6
+192,5613,Aave,70.98,14.0,ethereum,2024,6
+193,1062,Fantom,70.37,17.0,ethereum,2024,6
+194,5395,Uniswap,70.03,21.0,ethereum,2024,6
+195,1011,Theta Network,69.92,22.0,ethereum,2024,6
+196,659,ChainLink,69.73,23.0,ethereum,2024,6
+197,1005,Synthetix Network Token,68.99,26.0,ethereum,2024,6
+198,996,Maker,67.99,31.0,ethereum,2024,6
+199,1014,Enjin Coin,67.24,35.0,ethereum,2024,6

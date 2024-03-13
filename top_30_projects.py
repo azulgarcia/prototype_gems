@@ -1,4 +1,4 @@
-from cb_database_connection import open_connection, close_connection
+from api_coingecko.cb_database_connection import open_connection
 import pandas as pd
 
 def fetch_data (connection, year, week, category, limit_top):
@@ -29,19 +29,15 @@ connection = open_connection()
 
 all_prorjects_df = pd.DataFrame()
 
-category = 'Development'
+category = 'General'
 limit_top = 30
 
 ### projects year 2024
-for week in range(1, 4):
+for week in range(4, 8):
     projects = fetch_data(connection, 2024, week, category, limit_top)
     all_prorjects_df = pd.concat([all_prorjects_df, projects], ignore_index=True)
 
-### projects year 2023
-for week in range(39, 53):
-    projects = fetch_data(connection, 2023, week, category, limit_top)
-    all_prorjects_df = pd.concat([all_prorjects_df, projects], ignore_index=True)
 
 print(all_prorjects_df)
-all_prorjects_df.to_csv("all_projects_top_30_Development.csv")
+all_prorjects_df.to_csv("all_projects_top_30_General_4_8.csv")
 connection.close()

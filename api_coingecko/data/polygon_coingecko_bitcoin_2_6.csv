@@ -1,0 +1,6 @@
+category,platform,date,year,week,id_project,project_name,start_price,end_price,performance,score
+General,polygon-ecosystem,2024-01-13 21:00:07,2024,2,376,Bitcoin,43857.0,42845.0,-0.023074993729621268,92.04
+General,polygon-ecosystem,2024-01-20 21:00:07,2024,3,376,Bitcoin,42845.0,41682.0,-0.027144357567977593,90.79
+General,polygon-ecosystem,2024-01-27 21:00:05,2024,4,376,Bitcoin,41682.0,42047.0,0.008756777505877836,90.18
+General,polygon-ecosystem,2024-02-03 21:00:07,2024,5,376,Bitcoin,42047.0,43050.0,0.023854258329964087,91.88
+General,polygon-ecosystem,2024-02-10 21:00:07,2024,6,376,Bitcoin,43050.0,48020.0,0.11544715447154472,91.37

@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 
-df = pd.read_csv("modification_polygon_coningecko.csv")
+df = pd.read_csv("app_polygon/modification_polygon_coningecko.csv")
 
 df['date'] = pd.to_datetime(df['date'])
 
@@ -87,8 +87,8 @@ columns_to_display = ['date', 'project_name', 'start_price', 'end_price', 'perfo
 st.write(filter_df_final[columns_to_display])
 
 st.markdown("##### Projects current week")
-#actual week
-df_actual_week = pd.read_csv('polygon_coingecko_current.csv')
+#current week
+df_actual_week = pd.read_csv('app_polygon/polygon_coingecko_current.csv')
 df_actual_week['date'] = pd.to_datetime(df_actual_week['date']).dt.date
 df_actual_week_sort = df_actual_week.sort_values(by='score', ascending=False)
 num_projects_current = st.slider('Select the number of projects to view:',

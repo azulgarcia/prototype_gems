@@ -1,9 +1,8 @@
-
 import pandas as pd
 from cb_database_queries import (get_top_projects_scores,
                                  get_top_projects_price,
                                  get_projects_slug,)
-from cb_database_connection import open_connection, close_connection
+from api_coingecko.cb_database_connection import open_connection, close_connection
 from datetime import date
 import time
 import requests
