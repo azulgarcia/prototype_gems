@@ -9,7 +9,7 @@ df['date'] = pd.to_datetime(df['date'])
 
 df['date'] = pd.to_datetime(df['date']).dt.date
 
-st.markdown('### Performances projects')
+st.markdown('### Performances projects Polygon')
 
 #category_filter = st.selectbox('Select category:', df['category'].unique())
 
