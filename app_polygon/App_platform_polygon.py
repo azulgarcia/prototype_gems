@@ -69,8 +69,9 @@ fig_performance.update_traces(line_color='green')
 st.markdown("##### Mean performance")
 st.plotly_chart(fig_performance)
 
-default_year = 2024
-default_week = 6
+
+default_year = df['year'].max()
+default_week = df[df['year'] == default_year]['week'].max()
 
 ### table
 year_filter = st.selectbox('Select year:', df['year'].unique(), index=df['year'].unique().tolist().index(default_year))
