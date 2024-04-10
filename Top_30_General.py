@@ -3,9 +3,9 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 
-df_top = pd.read_csv("all_projects_top_30.csv").reset_index()
+df_top = pd.read_csv("all_projects_top_30_General_trim1_2024.csv").reset_index()
 
-df = pd.read_csv('top_30_performances_final.csv').reset_index()
+df = pd.read_csv('top_30_performances_trim1_2024_General.csv').reset_index()
 df['date'] = pd.to_datetime(df['date'])
 
 ###############################################################################################################
@@ -16,8 +16,8 @@ df['date'] = pd.to_datetime(df['date']).dt.date
 
 print(df.columns)
 
-st.title('Top 30 General')
-st.write('Period: 09/24/2023 to 02/17/2024')
+st.title('Top 30 General - Quarterly')
+st.write('Projects in top General from 07/01/2024 to 31/03/2024 (13 weeks)')
 ###############################################################################################################
 # Apariciones de los proyectos
 ###############################################################################################################
