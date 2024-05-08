@@ -72,6 +72,9 @@ for index, row in expanded_df.iterrows():
         print(str(row['id_project']) + ", " + str(row['week_performance']))
         performance_values.append(None)
         date_performance_values.append(None)
+        init_prices_values.append(None)
+        end_prices_values.append(None)
+
 
 # Agregar las listas como columnas al DataFrame expandido
 expanded_df['performance'] = performance_values
