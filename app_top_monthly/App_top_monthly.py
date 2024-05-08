@@ -130,6 +130,3 @@ selected_week = st.selectbox('Seleccione una semana:', unique_weeks)
 filtered_projects_week = expanded_df[expanded_df['week_performance'] == selected_week]
 st.write("###### Proyectos para la semana seleccionada:")
 st.write(filtered_projects_week[['name', 'date_performance', 'init_price', 'end_price', 'performance']])
-
-
-#st.table(expanded_df)
