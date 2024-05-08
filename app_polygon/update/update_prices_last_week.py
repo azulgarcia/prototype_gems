@@ -5,11 +5,11 @@ connection = open_connection()
 platform = 'polygon-ecosystem'
 
 #Cierre ultima semana
-current_week = 10
+current_week = 18
 year = 2024
 category = 'General'
 data_last_week = []
-projects_last_week = pd.read_csv('polygon_coingecko_general_7.csv')
+projects_last_week = pd.read_csv('../polygon_coingecko_current.csv')
 list_projects_last_week = projects_last_week['id_project'].to_list()
 print('CIERRE ULTIMA SEMANA')
 for id in list_projects_last_week:

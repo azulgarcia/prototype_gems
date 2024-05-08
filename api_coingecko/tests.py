@@ -1,7 +1,7 @@
 import requests
 import json
 import pandas as pd
-from cb_database_connection import open_connection
+from app_polygon.update.cb_database_connection import open_connection
 
 
 # get projects from the platform

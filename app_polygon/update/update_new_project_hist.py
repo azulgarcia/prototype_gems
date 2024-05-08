@@ -5,8 +5,8 @@ from cb_database_connection import open_connection
 
 
 # historico nuevos proyectos
-total_db = pd.read_csv('/app_polygon/modification_polygon_coningecko.csv')
-current_projects = pd.read_csv('/polygon_coingecko_current.csv')
+total_db = pd.read_csv('../modification_polygon_coningecko.csv')
+current_projects = pd.read_csv('../polygon_coingecko_current.csv')
 list_id_total = total_db['id_project'].unique().tolist()
 list_current = current_projects['id_project'].tolist()
 data_new_projects = []
@@ -14,7 +14,7 @@ data_new_projects = []
 connection = open_connection()
 category = 'General'
 platform = 'polygon-ecosystem'
-current_week = 10
+current_week = 17
 
 print('HISTORICO NUEVOS PROYECTOS')
 for id in list_current:

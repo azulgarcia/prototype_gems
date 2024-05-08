@@ -959,3 +959,183 @@
 957,4696,Curve DAO Token,General,59.55,2023,52
 958,7102,Flow - Dapper Labs,General,59.49,2023,52
 959,996,Maker,General,59.41,2023,52
+0,376,Bitcoin,General,90.18,2024,4
+1,978,Ethereum,General,75.67,2024,4
+2,345,Binance Coin,General,73.65,2024,4
+3,979,XRP,General,72.38,2024,4
+4,5518,Avalanche,General,72.19,2024,4
+5,8839,Internet Computer,General,71.37,2024,4
+6,1069,Hedera Hashgraph,General,71.19,2024,4
+7,984,TRON,General,70.89,2024,4
+8,1036,Polygon,General,70.75,2024,4
+9,769,Cosmos,General,70.64,2024,4
+10,4688,Polkadot,General,70.57,2024,4
+11,994,VeChain,General,70.54,2024,4
+12,621,Cardano,General,70.42,2024,4
+13,6569,The Graph,General,70.35,2024,4
+14,5613,Aave,General,70.07,2024,4
+15,147,Algorand,General,69.83,2024,4
+16,8477,Mina Protocol (IOU),General,69.71,2024,4
+17,3844,Trust Wallet Token,General,69.61,2024,4
+18,15951,BitTorrent,General,68.65,2024,4
+19,1087,Kava,General,68.42,2024,4
+20,2391,Klaytn,General,67.88,2024,4
+21,986,Monero,General,66.99,2024,4
+22,996,Maker,General,66.70,2024,4
+23,15335,Moonbeam,General,66.60,2024,4
+24,907,Decentraland,General,66.39,2024,4
+25,1011,Theta Network,General,66.25,2024,4
+26,1014,Enjin Coin,General,66.23,2024,4
+27,1005,Synthetix Network Token,General,66.10,2024,4
+28,10410,Moonriver,General,65.85,2024,4
+29,659,ChainLink,General,65.78,2024,4
+30,376,Bitcoin,General,91.88,2024,5
+31,978,Ethereum,General,78.65,2024,5
+32,979,XRP,General,75.60,2024,5
+33,345,Binance Coin,General,74.89,2024,5
+34,8839,Internet Computer,General,73.07,2024,5
+35,5518,Avalanche,General,72.99,2024,5
+36,621,Cardano,General,72.12,2024,5
+37,3844,Trust Wallet Token,General,71.77,2024,5
+38,907,Decentraland,General,71.66,2024,5
+39,986,Monero,General,71.61,2024,5
+40,769,Cosmos,General,71.43,2024,5
+41,1036,Polygon,General,71.35,2024,5
+42,984,TRON,General,71.02,2024,5
+43,5613,Aave,General,70.98,2024,5
+44,4688,Polkadot,General,70.79,2024,5
+45,147,Algorand,General,70.73,2024,5
+46,1062,Fantom,General,70.37,2024,5
+47,1069,Hedera Hashgraph,General,70.36,2024,5
+48,994,VeChain,General,70.25,2024,5
+49,3747,Solana,General,70.16,2024,5
+50,5395,Uniswap,General,70.03,2024,5
+51,1011,Theta Network,General,69.92,2024,5
+52,659,ChainLink,General,69.73,2024,5
+53,998,Dogecoin,General,69.27,2024,5
+54,985,Tezos,General,69.10,2024,5
+55,1005,Synthetix Network Token,General,68.99,2024,5
+56,8477,Mina Protocol (IOU),General,68.78,2024,5
+57,15951,BitTorrent,General,68.58,2024,5
+58,991,Ethereum Classic,General,68.07,2024,5
+59,5674,PancakeSwap,General,68.05,2024,5
+60,376,Bitcoin,General,91.37,2024,6
+61,978,Ethereum,General,78.37,2024,6
+62,979,XRP,General,75.22,2024,6
+63,345,Binance Coin,General,73.88,2024,6
+64,8839,Internet Computer,General,73.20,2024,6
+65,986,Monero,General,72.61,2024,6
+66,1069,Hedera Hashgraph,General,72.21,2024,6
+67,5518,Avalanche,General,71.52,2024,6
+68,621,Cardano,General,71.08,2024,6
+69,984,TRON,General,70.86,2024,6
+70,3844,Trust Wallet Token,General,70.80,2024,6
+71,1036,Polygon,General,70.78,2024,6
+72,998,Dogecoin,General,70.71,2024,6
+73,769,Cosmos,General,70.67,2024,6
+74,907,Decentraland,General,70.56,2024,6
+75,8477,Mina Protocol (IOU),General,70.08,2024,6
+76,147,Algorand,General,70.08,2024,6
+77,5613,Aave,General,70.05,2024,6
+78,994,VeChain,General,69.90,2024,6
+79,4688,Polkadot,General,69.87,2024,6
+80,3747,Solana,General,69.84,2024,6
+81,5395,Uniswap,General,69.69,2024,6
+82,1011,Theta Network,General,69.58,2024,6
+83,985,Tezos,General,69.32,2024,6
+84,983,Stellar,General,69.30,2024,6
+85,6569,The Graph,General,68.57,2024,6
+86,1005,Synthetix Network Token,General,68.18,2024,6
+87,996,Maker,General,68.14,2024,6
+88,5674,PancakeSwap,General,68.00,2024,6
+89,15951,BitTorrent,General,67.81,2024,6
+0,376,Bitcoin,General,92.03,2024,7
+1,978,Ethereum,General,78.50,2024,7
+2,979,XRP,General,76.05,2024,7
+3,8839,Internet Computer,General,75.52,2024,7
+4,345,Binance Coin,General,74.67,2024,7
+5,5518,Avalanche,General,73.33,2024,7
+6,1069,Hedera Hashgraph,General,72.48,2024,7
+7,3844,Trust Wallet Token,General,71.95,2024,7
+8,621,Cardano,General,71.93,2024,7
+9,1036,Polygon,General,71.87,2024,7
+10,907,Decentraland,General,71.51,2024,7
+11,2391,Klaytn,General,71.46,2024,7
+12,769,Cosmos,General,71.25,2024,7
+13,984,TRON,General,71.11,2024,7
+14,5613,Aave,General,71.06,2024,7
+15,3747,Solana,General,71.04,2024,7
+16,4688,Polkadot,General,70.81,2024,7
+17,994,VeChain,General,70.68,2024,7
+18,147,Algorand,General,70.56,2024,7
+19,998,Dogecoin,General,70.33,2024,7
+20,5395,Uniswap,General,70.31,2024,7
+21,1011,Theta Network,General,70.18,2024,7
+22,983,Stellar,General,70.02,2024,7
+23,8477,Mina Protocol (IOU),General,69.95,2024,7
+24,1062,Fantom,General,69.81,2024,7
+25,985,Tezos,General,69.77,2024,7
+26,7102,Flow - Dapper Labs,General,69.44,2024,7
+27,986,Monero,General,69.14,2024,7
+28,1005,Synthetix Network Token,General,69.11,2024,7
+29,991,Ethereum Classic,General,68.82,2024,7
+30,376,Bitcoin,General,91.11,2024,8
+31,978,Ethereum,General,77.63,2024,8
+32,979,XRP,General,75.63,2024,8
+33,5518,Avalanche,General,73.40,2024,8
+34,345,Binance Coin,General,73.08,2024,8
+35,3844,Trust Wallet Token,General,71.05,2024,8
+36,3747,Solana,General,70.92,2024,8
+37,621,Cardano,General,70.92,2024,8
+38,769,Cosmos,General,70.86,2024,8
+39,907,Decentraland,General,70.52,2024,8
+40,984,TRON,General,70.49,2024,8
+41,5613,Aave,General,70.48,2024,8
+42,4688,Polkadot,General,70.06,2024,8
+43,994,VeChain,General,70.01,2024,8
+44,986,Monero,General,69.90,2024,8
+45,147,Algorand,General,69.88,2024,8
+46,998,Dogecoin,General,69.84,2024,8
+47,5395,Uniswap,General,69.78,2024,8
+48,985,Tezos,General,69.71,2024,8
+49,983,Stellar,General,69.60,2024,8
+50,8839,Internet Computer,General,69.50,2024,8
+51,1069,Hedera Hashgraph,General,69.46,2024,8
+52,1011,Theta Network,General,68.66,2024,8
+53,2391,Klaytn,General,68.44,2024,8
+54,1062,Fantom,General,68.19,2024,8
+55,7102,Flow - Dapper Labs,General,68.19,2024,8
+56,1005,Synthetix Network Token,General,68.11,2024,8
+57,15951,BitTorrent,General,67.80,2024,8
+58,996,Maker,General,67.55,2024,8
+59,8477,Mina Protocol (IOU),General,67.53,2024,8
+60,376,Bitcoin,General,88.32,2024,9
+61,978,Ethereum,General,81.14,2024,9
+62,979,XRP,General,74.23,2024,9
+63,345,Binance Coin,General,74.04,2024,9
+64,8839,Internet Computer,General,72.16,2024,9
+65,621,Cardano,General,71.01,2024,9
+66,1036,Polygon,General,70.73,2024,9
+67,3747,Solana,General,70.73,2024,9
+68,5613,Aave,General,70.54,2024,9
+69,998,Dogecoin,General,70.52,2024,9
+70,4688,Polkadot,General,69.92,2024,9
+71,769,Cosmos,General,69.90,2024,9
+72,5395,Uniswap,General,69.75,2024,9
+73,1005,Synthetix Network Token,General,69.74,2024,9
+74,994,VeChain,General,69.56,2024,9
+75,1069,Hedera Hashgraph,General,69.56,2024,9
+76,5518,Avalanche,General,69.52,2024,9
+77,996,Maker,General,69.43,2024,9
+78,3844,Trust Wallet Token,General,69.34,2024,9
+79,1011,Theta Network,General,69.10,2024,9
+80,7102,Flow - Dapper Labs,General,69.08,2024,9
+81,1013,KuCoin Shares,General,69.01,2024,9
+82,4708,SAND,General,68.94,2024,9
+83,1062,Fantom,General,68.88,2024,9
+84,6569,The Graph,General,68.55,2024,9
+85,659,ChainLink,General,68.33,2024,9
+86,984,TRON,General,68.25,2024,9
+87,15951,BitTorrent,General,68.02,2024,9
+88,907,Decentraland,General,67.97,2024,9
+89,986,Monero,General,67.66,2024,9

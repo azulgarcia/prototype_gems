@@ -49,7 +49,7 @@ print(list_id)
 data = []
 year = 2024
 category = 'General'
-current_week = 10
+current_week = 18
 
 # BUSQUEDA DE TOP ACTUAL CON PRECIO DE INICIO
 for id in list_id:

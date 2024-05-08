@@ -1,4 +1,4 @@
-from api_coingecko.cb_database_connection import open_connection
+from app_polygon.update.cb_database_connection import open_connection
 import pandas as pd
 
 def get_projects(year, week, category, limit_top):

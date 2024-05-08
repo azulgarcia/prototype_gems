@@ -1,0 +1,101 @@
+category,platform,date,year,week,id_project,project_name,start_price,end_price,performance,score
+General,polygon-ecosystem,2024-03-30 21:00:12,2024,13,345,Binance Coin,606.21,-,-,71.67
+General,polygon-ecosystem,2024-03-30 21:00:19,2024,13,992,USD Coin,0.999951,-,-,42.15
+General,polygon-ecosystem,2024-03-30 21:00:37,2024,13,2872,Wrapped Bitcoin,69875.0,-,-,39.01
+General,polygon-ecosystem,2024-03-30 21:00:34,2024,13,659,ChainLink,19.09,-,-,69.3
+General,polygon-ecosystem,2024-03-30 21:00:43,2024,13,5395,Uniswap,12.73,-,-,65.57
+General,polygon-ecosystem,2024-03-30 21:00:41,2024,13,1036,Polygon,0.98779,-,-,70.2
+General,polygon-ecosystem,2024-03-30 21:00:57,2024,13,865,Dai,0.998781,-,-,39.76
+General,polygon-ecosystem,2024-03-30 21:01:09,2024,13,4469,Render Token,10.83,-,-,45.05
+General,polygon-ecosystem,2024-03-30 21:01:22,2024,13,6569,The Graph,0.390797,-,-,68.16
+General,polygon-ecosystem,2024-03-30 21:01:35,2024,13,996,Maker,3721.32,-,-,65.61
+General,polygon-ecosystem,2024-03-30 21:01:26,2024,13,5920,Injective Protocol,36.29,-,-,45.64
+General,polygon-ecosystem,2024-03-30 21:01:43,2024,13,6723,Lido DAO,2.82,-,-,67.4
+General,polygon-ecosystem,2024-03-30 21:02:05,2024,13,13879,Rocket Pool ETH,3862.62,-,-,36.45
+General,polygon-ecosystem,2024-03-30 21:02:13,2024,13,5613,Aave,125.16,-,-,68.52
+General,polygon-ecosystem,2024-03-30 21:02:32,2024,13,18835,Bonk,2.74e-05,-,-,26.99
+General,polygon-ecosystem,2024-03-30 21:02:26,2024,13,4708,SAND,0.705045,-,-,61.82
+General,polygon-ecosystem,2024-03-30 21:02:36,2024,13,1005,Synthetix Network Token,4.57,-,-,65.88
+General,polygon-ecosystem,2024-03-30 21:03:14,2024,13,18821,Axelar,2.01,-,-,42.73
+General,polygon-ecosystem,2024-03-30 21:03:12,2024,13,5649,APEcoin,1.99,-,-,39.92
+General,polygon-ecosystem,2024-03-30 21:03:10,2024,13,907,Decentraland,0.66595,-,-,68.55
+General,polygon-ecosystem,2024-03-30 21:03:44,2024,13,18838,Frax Ether,3471.82,-,-,27.88
+General,polygon-ecosystem,2024-03-30 21:04:12,2024,13,10321,WOO Network,0.439599,-,-,36.86
+General,polygon-ecosystem,2024-03-30 21:04:15,2024,13,4696,Curve DAO Token,0.694911,-,-,65.97
+General,polygon-ecosystem,2024-03-30 21:04:46,2024,13,1121,Ocean Protocol,1.32,-,-,59.06
+General,polygon-ecosystem,2024-03-30 21:04:23,2024,13,1028,NEXO,1.31,-,-,56.46
+General,polygon-ecosystem,2024-03-30 21:04:51,2024,13,6641,1inch,0.614314,-,-,64.52
+General,polygon-ecosystem,2024-03-30 21:04:37,2024,13,1090,IoTeX,0.074532,-,-,63.73
+General,polygon-ecosystem,2024-03-30 21:04:48,2024,13,19695,Coinbase Wrapped Staked ETH,3727.92,-,-,15.17
+General,polygon-ecosystem,2024-03-30 21:04:50,2024,13,6570,Frax,0.996993,-,-,55.7
+General,polygon-ecosystem,2024-03-30 21:06:19,2024,13,188,Ankr,0.056782,-,-,44.83
+General,polygon-ecosystem,2024-03-30 21:04:54,2024,13,3720,Rocket Pool,29.17,-,-,39.09
+General,polygon-ecosystem,2024-03-30 21:05:24,2024,13,16387,STEPN,0.37151,-,-,45.19
+General,polygon-ecosystem,2024-03-30 21:04:38,2024,13,18839,Staked Frax Ether,3752.6,-,-,27.33
+General,polygon-ecosystem,2024-03-30 21:04:30,2024,13,3,0x,0.753281,-,-,62.68
+General,polygon-ecosystem,2024-03-30 21:05:13,2024,13,7424,SuperFarm,1.33,-,-,36.22
+General,polygon-ecosystem,2024-03-30 21:05:11,2024,13,6597,Frax Share,7.55,-,-,53.89
+General,polygon-ecosystem,2024-03-30 21:05:42,2024,13,1052,Golem,0.593216,-,-,54.68
+General,polygon-ecosystem,2024-03-30 21:06:00,2024,13,4706,MANTRA DAO,0.703583,-,-,48.14
+General,polygon-ecosystem,2024-03-30 21:06:07,2024,13,7426,Mask Network,5.45,-,-,37.27
+General,polygon-ecosystem,2024-03-30 21:05:40,2024,13,4340,Compound,77.66,-,-,35.79
+General,polygon-ecosystem,2024-03-30 21:04:58,2024,13,1002,TrueUSD,1.0,-,-,46.89
+General,polygon-ecosystem,2024-03-30 21:08:02,2024,13,9791,Yield Guild Games,1.41,-,-,43.52
+General,polygon-ecosystem,2024-03-30 21:06:15,2024,13,291,Basic Attention Token,0.330758,-,-,29.08
+General,polygon-ecosystem,2024-03-30 21:05:49,2024,13,1281,OriginTrail,1.22,-,-,59.0
+General,polygon-ecosystem,2024-03-30 21:06:56,2024,13,6298,API3,3.69,-,-,60.08
+General,polygon-ecosystem,2024-03-30 21:07:13,2024,13,24672,Vanar Chain,0.282586,-,-,20.58
+General,polygon-ecosystem,2024-03-30 21:07:52,2024,13,4692,Sushi,1.85,-,-,54.24
+General,polygon-ecosystem,2024-03-30 21:07:33,2024,13,7173,SafePal,0.764782,-,-,44.65
+General,polygon-ecosystem,2024-03-30 21:08:12,2024,13,3750,UMA,4.26,-,-,53.64
+General,polygon-ecosystem,2024-03-30 21:07:49,2024,13,1105,Telcoin,0.00401479,-,-,45.8
+General,polygon-ecosystem,2024-03-30 21:08:29,2024,13,282,Band Protocol,2.28,-,-,58.4
+General,polygon-ecosystem,2024-03-30 21:08:31,2024,13,4689,yearn.finance,8919.76,-,-,58.54
+General,polygon-ecosystem,2024-03-30 21:08:50,2024,13,4341,Balancer,5.04,-,-,35.68
+General,polygon-ecosystem,2024-03-30 21:09:12,2024,13,9795,Coin98,0.423677,-,-,36.98
+General,polygon-ecosystem,2024-03-30 21:08:41,2024,13,22460,Open Campus,1.035,-,-,27.67
+General,polygon-ecosystem,2024-03-30 21:09:18,2024,13,3127,Everipedia,0.0142102,-,-,54.88
+General,polygon-ecosystem,2024-03-30 21:10:02,2024,13,10909,Synapse,1.26,-,-,32.74
+General,polygon-ecosystem,2024-03-30 21:09:31,2024,13,1259,Tellor,95.79,-,-,56.9
+General,polygon-ecosystem,2024-03-30 21:10:03,2024,13,22524,Osaka Protocol,3.09252e-07,-,-,24.36
+General,polygon-ecosystem,2024-03-30 21:15:10,2024,13,10709,The Doge NFT,0.0185977,-,-,18.19
+General,polygon-ecosystem,2024-03-30 21:09:32,2024,13,3752,Cartesi,0.319622,-,-,18.67
+General,polygon-ecosystem,2024-03-30 21:12:46,2024,13,21525,AllianceBlock Nexera,0.252136,-,-,34.18
+General,polygon-ecosystem,2024-03-30 21:10:46,2024,13,776,Covalent,0.308641,-,-,40.48
+General,polygon-ecosystem,2024-03-30 21:11:27,2024,13,3144,Orbs,0.0467725,-,-,36.98
+General,polygon-ecosystem,2024-03-30 21:11:37,2024,13,21706,SmarDex,0.0210061,-,-,25.59
+General,polygon-ecosystem,2024-03-30 21:15:03,2024,13,687,Civic,0.230966,-,-,55.64
+General,polygon-ecosystem,2024-03-30 21:13:57,2024,13,8844,Dogelon Mars,3.41437e-07,-,-,36.95
+General,polygon-ecosystem,2024-03-30 21:11:23,2024,13,9735,Vulcan Forged,7.35,-,-,34.65
+General,polygon-ecosystem,2024-03-30 21:12:26,2024,13,18805,Hashflow,0.447288,-,-,34.34
+General,polygon-ecosystem,2024-03-30 21:10:38,2024,13,22494,Autonolas,3.91,-,-,25.29
+General,polygon-ecosystem,2024-03-30 21:12:00,2024,13,12260,Gains Network,4.95,-,-,33.42
+General,polygon-ecosystem,2024-03-30 21:12:53,2024,13,16688,Stargate Finance,0.75362,-,-,19.03
+General,polygon-ecosystem,2024-03-30 21:12:23,2024,13,3457,inSure,0.00612332,-,-,20.41
+General,polygon-ecosystem,2024-03-30 21:12:36,2024,13,5619,DODO,0.249527,-,-,43.1
+General,polygon-ecosystem,2024-03-30 21:12:51,2024,13,22479,crvUSD,0.994694,-,-,46.36
+General,polygon-ecosystem,2024-03-30 21:22:37,2024,13,5397,Aavegotchi,2.06,-,-,32.47
+General,polygon-ecosystem,2024-03-30 21:13:02,2024,13,16853,Stader MaticX,1.092,-,-,25.9
+General,polygon-ecosystem,2024-03-30 21:13:28,2024,13,8843,Kyber Network Crystal,0.883845,-,-,62.34
+General,polygon-ecosystem,2024-03-30 21:12:10,2024,13,12078,Nakamoto Games,2.23,-,-,36.09
+General,polygon-ecosystem,2024-03-30 21:21:10,2024,13,11494,IX Swap,0.77839,-,-,28.04
+General,polygon-ecosystem,2024-03-30 21:13:52,2024,13,1099,STASIS EURO,1.078,-,-,34.35
+General,polygon-ecosystem,2024-03-30 21:14:24,2024,13,3744,WazirX,0.31444,-,-,58.47
+General,polygon-ecosystem,2024-03-30 21:13:50,2024,13,8485,Zignaly,0.101613,-,-,35.41
+General,polygon-ecosystem,2024-03-30 21:11:55,2024,13,6445,Badger DAO,6.92,-,-,30.81
+General,polygon-ecosystem,2024-03-30 21:18:20,2024,13,649,Celsius Network,0.363142,-,-,44.36
+General,polygon-ecosystem,2024-03-30 21:13:04,2024,13,10720,Gelato,0.584274,-,-,40.97
+General,polygon-ecosystem,2024-03-30 21:14:18,2024,13,5918,CertiK,1.036,-,-,32.01
+General,polygon-ecosystem,2024-03-30 21:14:35,2024,13,8050,Liquity USD,0.994127,-,-,51.13
+General,polygon-ecosystem,2024-03-30 21:12:49,2024,13,7598,Ethernity Chain,6.04,-,-,35.94
+General,polygon-ecosystem,2024-03-30 21:16:10,2024,13,1142,Request,0.162507,-,-,53.86
+General,polygon-ecosystem,2024-03-30 21:17:38,2024,13,5519,tBTC,69960.0,-,-,15.08
+General,polygon-ecosystem,2024-03-30 21:13:34,2024,13,8518,GamerCoin,0.197933,-,-,24.96
+General,polygon-ecosystem,2024-03-30 21:16:22,2024,13,23158,Multibit,0.116309,-,-,27.25
+General,polygon-ecosystem,2024-03-30 21:18:00,2024,13,1058,REN,0.098336,-,-,61.38
+General,polygon-ecosystem,2024-03-30 21:15:36,2024,13,5399,Frontier,1.27,-,-,34.22
+General,polygon-ecosystem,2024-03-30 21:18:50,2024,13,7864,PlayDapp,0.172806,-,-,28.84
+General,polygon-ecosystem,2024-03-30 21:17:11,2024,13,6790,Escoin Token,1.037,-,-,20.47
+General,polygon-ecosystem,2024-03-30 21:21:07,2024,13,8316,Boson Protocol,0.823687,-,-,34.74
+General,polygon-ecosystem,2024-03-30 21:18:08,2024,13,18825,Across Protocol,0.268846,-,-,25.68
+General,polygon-ecosystem,2024-03-30 21:18:34,2024,13,18798,ARPA,0.100483,-,-,33.55
